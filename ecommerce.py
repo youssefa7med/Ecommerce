@@ -45,10 +45,10 @@ if  selected_col == "Univariate":
 
     st.divider()
 
-    cat_col1 = st.selectbox('Select one category column to filter by:', ['major category','minor category','country','ordertimeofday'] )
-    ws = df[cat_col1].value_counts().reset_index()
-    fig2 = px.pie(ws,names='index',values=cat_col1,color_discrete_sequence = px.colors.sequential.RdBu,color = 'index',template='presentation',title=f'Number of {cat_col1}',hole = 0.35)
-    st.plotly_chart(fig2, use_container_width=True)
+    # cat_col1 = st.selectbox('Select one category column to filter by:', ['major category','minor category','country','ordertimeofday'] )
+    # ws = df[cat_col1].value_counts().reset_index()
+    # fig2 = px.pie(ws,names='index',values=cat_col1,color_discrete_sequence = px.colors.sequential.RdBu,color = 'index',template='presentation',title=f'Number of {cat_col1}',hole = 0.35)
+    # st.plotly_chart(fig2, use_container_width=True)
 
 elif selected_col =='Bivariate':
 
