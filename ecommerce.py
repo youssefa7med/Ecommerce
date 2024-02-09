@@ -4,6 +4,7 @@ import numpy  as np
 import plotly.express as px
 import datetime
 
+st.set_page_config(layout="centered",page_title="Ecommerce",page_icon='🛍️',initial_sidebar_state="collapsed")
 
 st.title("Streamlit App about Ecommerce ")
 st.image('https://www.zuplic.com/wp-content/uploads/2018/07/eCommerce-Animated-GIF.gif')
