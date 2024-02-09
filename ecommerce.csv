@@ -1,0 +1,701 @@
+﻿InvoiceNo  ,UnitPrice,OrderValue,Quantit,Country, InvoiceDate,InvoiceTime,Year-Month,Major Category,Minor Category,Description
+549185,0.85,10.2,12,United Kingdom   ,   7/4/11   ,   09:35   ,2011-04   ,    Clothes  ,          Tops,   PACK OF 20 NAPKINS PANTRY DESIGN
+576381,2.95,35.4,12,United Kingdom   , 15/11/11   ,   09:26   ,2011-11   ,    Clothes  ,         Shoes,    NATURAL SLATE HEART CHALKBOARD 
+551192,1.25,20,16,United Kingdom   ,  27/4/11   ,   10:54   ,2011-04   ,    Kitchen  ,       Cutlery,             36 PENCILS TUBE SKULLS
+573553,7.46,7.46,1,United Kingdom   , 31/10/11   ,   13:48   ,2011-10   ,     Garden  ,          Turf, SET 6 SCHOOL MILK BOTTLES IN CRATE
+539436,2.51,2.51,1,United Kingdom   , 17/12/10   ,   14:49   ,2010-12   ,     Garden  ,         Hoses,                 FINE WICKER HEART 
+580893,3.95,3.95,1,United Kingdom   ,  6/12/11   ,   12:38   ,2011-12   ,     Garden  ,         Hoses,       SEWING BOX RETROSPOT DESIGN 
+568321,2.1,12.6,6,United Kingdom   ,  26/9/11   ,   13:36   ,2011-09   ,    Clothes  ,          Hats, 3 TRADITIONAl BISCUIT CUTTERS  SET
+552949,4.95,29.7,6,United Kingdom   ,  12/5/11   ,   12:01   ,2011-05   ,    Clothes  ,          Tops,             BULL DOG BOTTLE OPENER
+567461,2.46,44.28,18,United Kingdom   ,  20/9/11   ,   12:31   ,2011-09   ,  Household  ,      Curtains,           STRAWBERRY CHARLOTTE BAG
+542121,1.69,3.38,2,United Kingdom   ,  25/1/11   ,   14:33   ,2011-01   ,  Household  ,         Lamps,             FAIRY SOAP SOAP HOLDER
+566913,0.39,1.56,4,United Kingdom   ,  15/9/11   ,   14:07   ,2011-09   ,    Kitchen  ,Cooking Knives,   PACK OF 12 VINTAGE DOILY TISSUES
+550477,0.55,0.55,1,United Kingdom   ,  18/4/11   ,   14:01   ,2011-04   ,  Household  ,         Lamps,     PACK OF 60 DINOSAUR CAKE CASES
+538663,12.75,25.5,2,United Kingdom   , 13/12/10   ,   15:45   ,2010-12   ,  Household  ,          Rugs,     CAKE STAND 3 TIER MAGIC GARDEN
+570715,1.25,30,24,United Kingdom   , 12/10/11   ,   10:23   ,2011-10   ,  Household  ,        Chairs,           ICE CREAM PEN LIP GLOSS 
+549299,1.65,16.5,10,United Kingdom   ,   8/4/11   ,   08:20   ,2011-04   ,    Clothes  ,         Shoes,                LUNCH BAG CARS BLUE
+559902,1.65,1.65,1,United Kingdom   ,  13/7/11   ,   13:14   ,2011-07   ,    Kitchen  ,      Coasters,             6 RIBBONS RUSTIC CHARM
+537369,4.25,4.25,1,United Kingdom   ,  6/12/10   ,   12:41   ,2010-12   ,    Clothes  ,          Tops,      ROSE 3 WICK MORRIS BOX CANDLE
+564353,2.1,25.2,12,United Kingdom   ,  24/8/11   ,   15:08   ,2011-08   ,    Kitchen  ,        Scales,      HAND WARMER SCOTTY DOG DESIGN
+562455,4.25,25.5,6,United Kingdom   ,   5/8/11   ,   10:32   ,2011-08   ,  Household  ,          Rugs,           JAM MAKING SET WITH JARS
+539451,1.28,1.28,1,United Kingdom   , 17/12/10   ,   16:59   ,2010-12   ,    Clothes  ,         Shoes,12 PENCILS SMALL TUBE RED RETROSPOT
+537057,2.95,2.95,1,United Kingdom   ,  5/12/10   ,   11:49   ,2010-12   ,  Household  ,          Rugs,    PAPER CHAIN KIT 50'S CHRISTMAS 
+549568,1.45,34.8,24,United Kingdom   ,  10/4/11   ,   15:09   ,2011-04   ,    Clothes  ,          Hats,             LAUNDRY 15C METAL SIGN
+564758,3.29,3.29,1,United Kingdom   ,  30/8/11   ,   10:39   ,2011-08   ,    Clothes  ,         Shoes,     PANTRY MAGNETIC  SHOPPING LIST
+541424,2.46,2.46,1,United Kingdom   ,  17/1/11   ,   17:57   ,2011-01   ,  Household  ,        Chairs,       SUMMER BUTTERFLIES BAG CHARM
+559000,4.95,9.9,2,United Kingdom   ,   5/7/11   ,   12:15   ,2011-07   ,  Household  ,      Curtains,                     SPOTTY BUNTING
+550438,1.25,15,12,United Kingdom   ,  18/4/11   ,   12:16   ,2011-04   ,    Kitchen  ,Cooking Knives,   PINK BLUE FELT CRAFT TRINKET BOX
+549556,2.55,10.2,4,United Kingdom   ,  10/4/11   ,   12:53   ,2011-04   ,    Clothes  ,         Shoes,            QUEENS GUARD COFFEE MUG
+550474,0.83,0.83,1,United Kingdom   ,  18/4/11   ,   13:58   ,2011-04   ,    Kitchen  ,       Cutlery,            TRAVEL CARD WALLET SUKI
+559317,7.95,7.95,1,United Kingdom   ,   7/7/11   ,   14:03   ,2011-07   ,    Clothes  ,          Hats,              DOORMAT RED RETROSPOT
+545906,2.1,12.6,6,United Kingdom   ,   8/3/11   ,   09:23   ,2011-03   ,    Kitchen  ,        Plates, 3 PIECE SPACEBOY COOKIE CUTTER SET
+568538,7.08,424.8,60,United Kingdom   ,  27/9/11   ,   14:07   ,2011-09   ,     Garden  ,          Turf,                DOORMAT NEW ENGLAND
+575944,0.21,6.3,30,United Kingdom   , 13/11/11   ,   11:46   ,2011-11   ,  Household  ,        Chairs,               SLEEPING CAT ERASERS
+545797,2.95,2.95,1,United Kingdom   ,   7/3/11   ,   12:17   ,2011-03   ,    Kitchen  ,        Plates,SET 12 LAVENDER  BOTANICAL T-LIGHTS
+540349,1.65,19.8,12,United Kingdom   ,   6/1/11   ,   14:07   ,2011-01   ,    Clothes  ,          Hats,   PLASTERS IN TIN VINTAGE PAISLEY 
+551174,3.29,3.29,1,United Kingdom   ,  26/4/11   ,   17:02   ,2011-04   ,     Garden  ,         Seeds,       HOMEMADE JAM SCENTED CANDLES
+541592,1.63,9.78,6,United Kingdom   ,  19/1/11   ,   15:08   ,2011-01   ,  Household  ,      Curtains,           SCOTTIES CHILDRENS APRON
+536769,1.25,25,20,United Kingdom   ,  2/12/10   ,   14:47   ,2010-12   ,    Clothes  ,          Hats,  3D TRADITIONAL CHRISTMAS STICKERS
+581166,2.95,2.95,1,United Kingdom   ,  7/12/11   ,   14:43   ,2011-12   ,    Kitchen  ,       Cutlery,    PAPER CHAIN KIT 50'S CHRISTMAS 
+548978,7.95,15.9,2,United Kingdom   ,   5/4/11   ,   12:08   ,2011-04   ,     Garden  ,          Turf,                DOORMAT NEW ENGLAND
+558315,1.65,19.8,12,United Kingdom   ,  28/6/11   ,   11:44   ,2011-06   ,     Garden  ,         Hoses,    CLOTHES PEGS RETROSPOT PACK 24 
+546009,4.25,4.25,1,United Kingdom   ,   8/3/11   ,   15:45   ,2011-03   ,    Kitchen  ,      Coasters,       AIRLINE BAG VINTAGE TOKYO 78
+542835,0.29,6.96,24,United Kingdom   ,   1/2/11   ,   11:30   ,2011-02   ,     Garden  ,         Hoses,              JASMINE VOTIVE CANDLE
+558315,7.95,15.9,2,United Kingdom   ,  28/6/11   ,   11:44   ,2011-06   ,    Clothes  ,          Tops,         ROUND CAKE TIN VINTAGE RED
+541695,8.29,8.29,1,United Kingdom   ,  20/1/11   ,   18:01   ,2011-01   ,     Garden  ,          Turf,  SET OF 6 SPICE TINS PANTRY DESIGN
+551824,1.25,15,12,United Kingdom   ,   4/5/11   ,   12:32   ,2011-05   ,  Household  ,      Curtains,  SET OF SALT AND PEPPER TOADSTOOLS
+553869,2.08,20.8,10,United Kingdom   ,  19/5/11   ,   14:27   ,2011-05   ,  Household  ,      Curtains,             JUMBO BAG VINTAGE LEAF
+566602,0.83,0.83,1,United Kingdom   ,  13/9/11   ,   16:05   ,2011-09   ,    Kitchen  ,      Coasters,"          LETTER ""M"" BLING KEY RING"
+575647,1.65,9.9,6,United Kingdom   , 10/11/11   ,   14:16   ,2011-11   ,    Kitchen  ,       Cutlery,   PLASTERS IN TIN WOODLAND ANIMALS
+572513,1.45,2.9,2,United Kingdom   , 24/10/11   ,   14:36   ,2011-10   ,  Household  ,         Lamps,   SET OF 36 PAISLEY FLOWER DOILIES
+542890,2.95,11.8,4,United Kingdom   ,   1/2/11   ,   13:25   ,2011-02   ,  Household  ,         Lamps,        PAPER BUNTING COLOURED LACE
+547883,0.55,13.2,24,United Kingdom   ,  28/3/11   ,   08:40   ,2011-03   ,     Garden  ,         Rakes, PACK OF 60 PINK PAISLEY CAKE CASES
+560264,2.95,17.7,6,United Kingdom   ,  17/7/11   ,   13:46   ,2011-07   ,  Household  ,        Chairs,    NATURAL SLATE HEART CHALKBOARD 
+539437,5.91,23.64,4,United Kingdom   , 17/12/10   ,   14:54   ,2010-12   ,    Kitchen  ,        Plates,    OFFICE MUG WARMER BLACK+SILVER 
+555278,4.13,4.13,1,United Kingdom   ,   1/6/11   ,   17:33   ,2011-06   ,    Kitchen  ,       Cutlery,       NUMBER TILE COTTAGE GARDEN 1
+581492,7.46,7.46,1,United Kingdom   ,  9/12/11   ,   10:03   ,2011-12   ,     Garden  ,         Rakes,       FOOD COVER WITH BEADS SET 2 
+568142,3.95,3.95,1,United Kingdom   ,  25/9/11   ,   11:22   ,2011-09   ,     Garden  ,         Rakes,     GLASS APOTHECARY BOTTLE ELIXIR
+545764,2.95,70.8,24,United Kingdom   ,   7/3/11   ,   12:00   ,2011-03   ,    Clothes  ,          Hats,             PAPER CHAIN KIT EMPIRE
+581015,1.95,15.6,8,United Kingdom   ,  7/12/11   ,   09:35   ,2011-12   ,    Kitchen  ,        Plates,        GINGHAM HEART  DOORSTOP RED
+537397,2.1,25.2,12,United Kingdom   ,  6/12/10   ,   14:19   ,2010-12   ,    Kitchen  ,      Coasters,        HAND WARMER BABUSHKA DESIGN
+543546,5.79,5.79,1,United Kingdom   ,   9/2/11   ,   16:52   ,2011-02   ,    Kitchen  ,        Scales,          PAPER CHAIN KIT RETROSPOT
+567662,2.08,8.32,4,United Kingdom   ,  21/9/11   ,   15:12   ,2011-09   ,    Kitchen  ,Cooking Knives,JUMBO BAG SCANDINAVIAN BLUE PAISLEY
+574706,3.75,15,4,United Kingdom   ,  6/11/11   ,   14:06   ,2011-11   ,     Garden  ,         Rakes,           VINTAGE SNAKES & LADDERS
+543815,1.65,3.3,2,United Kingdom   ,  13/2/11   ,   15:18   ,2011-02   ,  Household  ,      Curtains,       EASTER TIN CHICKS PINK DAISY
+547987,0.85,8.5,10,United Kingdom   ,  29/3/11   ,   09:11   ,2011-03   ,    Clothes  ,         Shoes,          CHARLOTTE BAG SUKI DESIGN
+575647,4.95,59.4,12,United Kingdom   , 10/11/11   ,   14:16   ,2011-11   ,  Household  ,      Curtains,         HOT WATER BOTTLE KEEP CALM
+551197,2.25,2.25,1,United Kingdom   ,  27/4/11   ,   11:26   ,2011-04   ,    Kitchen  ,       Cutlery,             ABC TREASURE BOOK BOX 
+577078,0.83,7.47,9,United Kingdom   , 17/11/11   ,   15:17   ,2011-11   ,    Kitchen  ,        Scales, WOODEN TREE CHRISTMAS SCANDINAVIAN
+538349,0.85,1.7,2,United Kingdom   , 10/12/10   ,   14:59   ,2010-12   ,  Household  ,         Lamps,                  CARD PARTY GAMES 
+567668,14.96,14.96,1,United Kingdom   ,  21/9/11   ,   15:29   ,2011-09   ,  Household  ,         Lamps,           PARISIENNE CURIO CABINET
+581471,8.5,8.5,1,United Kingdom   ,  8/12/11   ,   19:29   ,2011-12   ,  Household  ,      Curtains,               IVORY KITCHEN SCALES
+537144,2.95,8.85,3,United Kingdom   ,  5/12/10   ,   13:00   ,2010-12   ,  Household  ,      Curtains,   IVORY PILLAR CANDLE SILVER FLOCK
+552677,8.29,8.29,1,United Kingdom   ,  10/5/11   ,   15:07   ,2011-05   ,    Clothes  ,         Shoes,                       OWL DOORSTOP
+547223,1.65,9.9,6,United Kingdom   ,  21/3/11   ,   15:10   ,2011-03   ,    Kitchen  ,        Scales,            CHILDREN'S SPACEBOY MUG
+580865,2.08,2.08,1,United Kingdom   ,  6/12/11   ,   11:58   ,2011-12   ,    Clothes  ,          Tops,                 JUMBO BAG ALPHABET
+561693,1.45,17.4,12,United Kingdom   ,  29/7/11   ,   09:48   ,2011-07   ,  Household  ,         Lamps,       HOMEMADE JAM SCENTED CANDLES
+547886,4.25,12.75,3,United Kingdom   ,  28/3/11   ,   09:21   ,2011-03   ,    Clothes  ,          Tops,          BROWN CHECK CAT DOORSTOP 
+579508,5.79,5.79,1,United Kingdom   , 29/11/11   ,   16:33   ,2011-11   ,     Garden  ,         Seeds,       GLASS JAR DIGESTIVE BISCUITS
+560224,2.08,4.16,2,United Kingdom   ,  15/7/11   ,   16:06   ,2011-07   ,    Kitchen  ,        Scales,          JUMBO BAG DOILEY PATTERNS
+565234,5.79,52.11,9,United Kingdom   ,   2/9/11   ,   09:38   ,2011-09   ,     Garden  ,         Hoses,   ROSES REGENCY TEACUP AND SAUCER 
+545276,1.25,52.5,42,United Kingdom   ,   1/3/11   ,   11:30   ,2011-03   ,    Clothes  ,          Hats,  ANTIQUE SILVER TEA GLASS ENGRAVED
+557645,1.63,1.63,1,United Kingdom   ,  21/6/11   ,   17:08   ,2011-06   ,    Clothes  ,         Shoes,                     RETRO MOD TRAY
+552560,2.08,20.8,10,United Kingdom   ,  10/5/11   ,   11:48   ,2011-05   ,  Household  ,      Curtains,        JUMBO BAG DOLLY GIRL DESIGN
+536638,4.25,17,4,United Kingdom   ,  2/12/10   ,   11:41   ,2010-12   ,    Clothes  ,         Shoes,         RED RETROSPOT PUDDING BOWL
+572023,0.85,0.85,1,United Kingdom   , 20/10/11   ,   11:03   ,2011-10   ,    Clothes  ,         Shoes,        PACK OF 20 SPACEBOY NAPKINS
+550210,202.42,202.42,1,United Kingdom   ,  15/4/11   ,   10:40   ,2011-04   ,  Household  ,        Chairs,                     DOTCOM POSTAGE
+545661,0.42,10.5,25,United Kingdom   ,   4/3/11   ,   14:41   ,2011-03   ,  Household  ,          Rugs,                 WRAP ENGLISH ROSE 
+542401,1.65,4.95,3,United Kingdom   ,  27/1/11   ,   15:51   ,2011-01   ,  Household  ,          Rugs,           WOOD STAMP SET THANK YOU
+537240,3.36,23.52,7,United Kingdom   ,  6/12/10   ,   10:08   ,2010-12   ,    Kitchen  ,      Coasters,     CHRISTMAS PUDDING TRINKET POT 
+557281,2.55,10.2,4,United Kingdom   ,  19/6/11   ,   12:23   ,2011-06   ,  Household  ,          Rugs,              PIGGY BANK RETROSPOT 
+567183,2.89,5.78,2,United Kingdom   ,  18/9/11   ,   15:32   ,2011-09   ,    Kitchen  ,        Plates,         STORAGE TIN VINTAGE DOILY 
+578998,1.25,1.25,1,United Kingdom   , 27/11/11   ,   16:05   ,2011-11   ,    Clothes  ,          Tops,             BLUE HARMONICA IN BOX 
+556812,10.79,10.79,1,United Kingdom   ,  14/6/11   ,   17:25   ,2011-06   ,  Household  ,         Lamps,             TEA TIME PARTY BUNTING
+565233,2.46,2.46,1,United Kingdom   ,   2/9/11   ,   09:34   ,2011-09   ,     Garden  ,          Turf,         HEART FILIGREE DOVE  SMALL
+580983,3.29,3.29,1,United Kingdom   ,  6/12/11   ,   16:26   ,2011-12   ,     Garden  ,         Seeds,              HEART OF WICKER SMALL
+558810,4.13,20.65,5,United Kingdom   ,   4/7/11   ,   11:11   ,2011-07   ,     Garden  ,         Seeds,     JUMBO BAG PINK VINTAGE PAISLEY
+556441,1.65,6.6,4,United Kingdom   ,  10/6/11   ,   15:07   ,2011-06   ,    Clothes  ,         Shoes, GARDENERS KNEELING PAD CUP OF TEA 
+544065,0.75,9,12,United Kingdom   ,  15/2/11   ,   13:52   ,2011-02   ,    Clothes  ,         Shoes,          ASSORTED COLOURS SILK FAN
+580908,1.95,1.95,1,United Kingdom   ,  6/12/11   ,   13:20   ,2011-12   ,     Garden  ,          Turf,           3 STRIPEY MICE FELTCRAFT
+545085,7.95,7.95,1,United Kingdom   ,  28/2/11   ,   11:19   ,2011-02   ,     Garden  ,         Seeds, DOORMAT FANCY FONT HOME SWEET HOME
+580877,1.25,1.25,1,United Kingdom   ,  6/12/11   ,   12:15   ,2011-12   ,     Garden  ,         Rakes,CLEAR DRAWER KNOB ACRYLIC EDWARDIAN
+581439,2.46,7.38,3,United Kingdom   ,  8/12/11   ,   16:30   ,2011-12   ,     Garden  ,          Turf,         HEART FILIGREE DOVE  SMALL
+572321,0.62,7.44,12,United Kingdom   , 24/10/11   ,   08:59   ,2011-10   ,  Household  ,          Rugs,      PACK OF 6 LARGE FRUIT STRAWS 
+573543,4.95,4.95,1,United Kingdom   , 31/10/11   ,   13:05   ,2011-10   ,    Clothes  ,          Tops,   RETROSPOT HEART HOT WATER BOTTLE
+578270,2.46,22.14,9,United Kingdom   , 23/11/11   ,   13:39   ,2011-11   ,  Household  ,      Curtains,         TRADITIONAL MODELLING CLAY
+563692,4.95,9.9,2,United Kingdom   ,  18/8/11   ,   13:01   ,2011-08   ,    Clothes  ,          Tops,         CHOCOLATE HOT WATER BOTTLE
+562727,3.75,15,4,United Kingdom   ,   9/8/11   ,   09:26   ,2011-08   ,     Garden  ,         Hoses,          SET OF 6 SOLDIER SKITTLES
+570288,2.1,6.3,3,United Kingdom   , 10/10/11   ,   11:47   ,2011-10   ,  Household  ,          Rugs,            HAND WARMER BIRD DESIGN
+541421,7.46,7.46,1,United Kingdom   ,  17/1/11   ,   17:44   ,2011-01   ,     Garden  ,          Turf,             GREEN FERN SKETCHBOOK 
+554788,7.95,15.9,2,United Kingdom   ,  26/5/11   ,   12:00   ,2011-05   ,    Clothes  ,          Tops,      SWEETHEART WIRE MAGAZINE RACK
+579089,0.29,0.29,1,United Kingdom   , 28/11/11   ,   10:46   ,2011-11   ,    Kitchen  ,        Plates,         SET/4 BIRD MIRROR MAGNETS 
+543645,1.65,4.95,3,United Kingdom   ,  10/2/11   ,   17:54   ,2011-02   ,     Garden  ,         Rakes,        LUNCH BAG DOLLY GIRL DESIGN
+565441,0.65,3.9,6,United Kingdom   ,   4/9/11   ,   14:08   ,2011-09   ,     Garden  ,          Turf,    BLACK CANDELABRA T-LIGHT HOLDER
+556107,0.42,10.5,25,United Kingdom   ,   8/6/11   ,   17:09   ,2011-06   ,     Garden  ,         Rakes,     BLUE SCANDINAVIAN PAISLEY WRAP
+561231,1.95,5.85,3,United Kingdom   ,  26/7/11   ,   10:20   ,2011-07   ,    Clothes  ,         Shoes,               DOLLY GIRL LUNCH BOX
+549714,1.25,1.25,1,United Kingdom   ,  11/4/11   ,   14:13   ,2011-04   ,    Clothes  ,         Shoes, GROW A FLYTRAP OR SUNFLOWER IN TIN
+559784,2.08,20.8,10,United Kingdom   ,  12/7/11   ,   12:07   ,2011-07   ,    Kitchen  ,         Bowls,          JUMBO BAG 50'S CHRISTMAS 
+537154,3.25,26,8,United Kingdom   ,  5/12/10   ,   13:05   ,2010-12   ,    Kitchen  ,        Plates,     CREAM CUPID HEARTS COAT HANGER
+568134,0.83,0.83,1,United Kingdom   ,  23/9/11   ,   17:02   ,2011-09   ,     Garden  ,          Turf,            GOLD MINI TAPE MEASURE 
+575607,1.63,1.63,1,United Kingdom   , 10/11/11   ,   12:37   ,2011-11   ,     Garden  ,         Hoses,               PORCELAIN ROSE SMALL
+554839,4.95,29.7,6,United Kingdom   ,  26/5/11   ,   17:15   ,2011-05   ,    Clothes  ,          Hats,                     SPOTTY BUNTING
+543256,1.25,7.5,6,United Kingdom   ,   4/2/11   ,   15:54   ,2011-02   ,     Garden  ,         Rakes,            ROMANTIC PINKS RIBBONS 
+575587,0.79,9.48,12,United Kingdom   , 10/11/11   ,   12:01   ,2011-11   ,    Kitchen  ,Cooking Knives,     ASS FLORAL PRINT SPIRIT LEVEL 
+565350,1.25,3.75,3,United Kingdom   ,   2/9/11   ,   14:42   ,2011-09   ,    Kitchen  ,         Bowls, TRADITIONAL WOODEN CATCH CUP GAME 
+570187,3.29,3.29,1,United Kingdom   ,  7/10/11   ,   15:09   ,2011-10   ,    Clothes  ,         Shoes,             JAM MAKING SET PRINTED
+576618,10.79,10.79,1,United Kingdom   , 15/11/11   ,   17:00   ,2011-11   ,    Clothes  ,          Tops,                  TRELLIS COAT RACK
+539215,3.75,3.75,1,United Kingdom   , 16/12/10   ,   12:42   ,2010-12   ,    Kitchen  ,      Coasters,          ALARM CLOCK BAKELIKE RED 
+575491,1.25,3.75,3,United Kingdom   ,  9/11/11   ,   17:47   ,2011-11   ,  Household  ,      Curtains,        UNION JACK FLAG LUGGAGE TAG
+575410,1.25,15,12,United Kingdom   ,  9/11/11   ,   15:50   ,2011-11   ,    Clothes  ,          Tops,   POCKET BAG BLUE PAISLEY RED SPOT
+546220,0.55,39.6,72,United Kingdom   ,  10/3/11   ,   12:16   ,2011-03   ,    Clothes  ,         Shoes,    PACK OF 72 RETROSPOT CAKE CASES
+569225,1.45,2.9,2,United Kingdom   ,  2/10/11   ,   14:25   ,2011-10   ,     Garden  ,          Turf,     PANTRY MAGNETIC  SHOPPING LIST
+541221,2.46,4.92,2,United Kingdom   ,  14/1/11   ,   14:28   ,2011-01   ,    Kitchen  ,        Plates,                SKULLS WRITING SET 
+573415,4.95,9.9,2,United Kingdom   , 30/10/11   ,   16:17   ,2011-10   ,  Household  ,          Rugs,            GINGHAM RECIPE BOOK BOX
+574856,4.13,4.13,1,United Kingdom   ,  7/11/11   ,   12:06   ,2011-11   ,    Clothes  ,         Shoes,        SET OF 5 LUCKY CAT MAGNETS 
+581112,2.08,24.96,12,United Kingdom   ,  7/12/11   ,   12:17   ,2011-12   ,    Clothes  ,          Hats,       BICYCLE PUNCTURE REPAIR KIT 
+565396,2.46,2.46,1,United Kingdom   ,   2/9/11   ,   16:39   ,2011-09   ,    Clothes  ,          Tops,            ROLL WRAP VINTAGE SPOT 
+545580,0.55,13.2,24,United Kingdom   ,   4/3/11   ,   08:43   ,2011-03   ,     Garden  ,         Seeds,     72 SWEETHEART FAIRY CAKE CASES
+562085,1.45,34.8,24,United Kingdom   ,   2/8/11   ,   12:27   ,2011-08   ,    Kitchen  ,        Plates,             JAM MAKING SET PRINTED
+559505,2.95,35.4,12,United Kingdom   ,   8/7/11   ,   15:16   ,2011-07   ,    Clothes  ,         Shoes,    NATURAL SLATE HEART CHALKBOARD 
+539453,25.49,25.49,1,United Kingdom   , 17/12/10   ,   17:08   ,2010-12   ,    Kitchen  ,        Plates,          12 EGG HOUSE PAINTED WOOD
+579142,0.85,2.55,3,United Kingdom   , 28/11/11   ,   13:06   ,2011-11   ,    Clothes  ,          Tops,      CHRISTMAS RETROSPOT TREE WOOD
+548309,1.65,1.65,1,United Kingdom   ,  30/3/11   ,   12:02   ,2011-03   ,     Garden  ,         Seeds,     PLASTERS IN TIN CIRCUS PARADE 
+540703,0.42,10.5,25,United Kingdom   ,  11/1/11   ,   09:58   ,2011-01   ,  Household  ,      Curtains,              WRAP SUKI AND FRIENDS
+546913,2.95,2.95,1,United Kingdom   ,  17/3/11   ,   20:18   ,2011-03   ,    Clothes  ,          Tops,              RECIPE BOX RETROSPOT 
+550834,4.25,4.25,1,United Kingdom   ,  21/4/11   ,   10:51   ,2011-04   ,     Garden  ,          Turf, BOX OF 6 ASSORTED COLOUR TEASPOONS
+581167,2.08,20.8,10,United Kingdom   ,  7/12/11   ,   14:52   ,2011-12   ,  Household  ,        Chairs,     JUMBO  BAG BAROQUE BLACK WHITE
+547655,1.25,15,12,United Kingdom   ,  24/3/11   ,   12:52   ,2011-03   ,  Household  ,      Curtains,                HOME SWEET HOME MUG
+567333,0.39,9.36,24,United Kingdom   ,  19/9/11   ,   14:55   ,2011-09   ,  Household  ,          Rugs,            MOODY GIRL DOOR HANGER 
+550211,4.13,4.13,1,United Kingdom   ,  15/4/11   ,   10:41   ,2011-04   ,  Household  ,      Curtains,  JUMBO SHOPPER VINTAGE RED PAISLEY
+564223,4.95,14.85,3,United Kingdom   ,  24/8/11   ,   09:46   ,2011-08   ,    Kitchen  ,       Cutlery,   EMPIRE UNION JACK TV DINNER TRAY
+563333,2.95,11.8,4,United Kingdom   ,  15/8/11   ,   13:09   ,2011-08   ,  Household  ,         Lamps,                PHOTO FRAME CORNICE
+577058,0.83,0.83,1,United Kingdom   , 17/11/11   ,   14:29   ,2011-11   ,  Household  ,        Chairs,     TOILET SIGN OCCUPIED OR VACANT
+541282,1.25,7.5,6,United Kingdom   ,  17/1/11   ,   12:31   ,2011-01   ,    Clothes  ,          Tops,         RETRO COFFEE MUGS ASSORTED
+580771,0.79,3.16,4,United Kingdom   ,  6/12/11   ,   10:58   ,2011-12   ,  Household  ,         Lamps,     SET OF 4 NAPKIN CHARMS CROWNS 
+554538,19.95,39.9,2,United Kingdom   ,  24/5/11   ,   17:46   ,2011-05   ,    Clothes  ,          Hats,  SWEETHEART CREAM STEEL TABLE RECT
+562851,1.65,19.8,12,United Kingdom   ,  10/8/11   ,   10:09   ,2011-08   ,    Kitchen  ,        Scales,          HEART FILIGREE DOVE LARGE
+559338,0.83,1.66,2,United Kingdom   ,   7/7/11   ,   16:30   ,2011-07   ,  Household  ,         Lamps,              SCOTTIE DOGS BABY BIB
+578072,2.49,4.98,2,United Kingdom   , 22/11/11   ,   16:02   ,2011-11   ,  Household  ,      Curtains,     BOX OF 6 MINI VINTAGE CRACKERS
+556734,5.95,17.85,3,United Kingdom   ,  14/6/11   ,   12:00   ,2011-06   ,     Garden  ,         Seeds,       BLACK/BLUE POLKADOT UMBRELLA
+557476,4.95,39.6,8,United Kingdom   ,  20/6/11   ,   13:41   ,2011-06   ,    Kitchen  ,        Plates,                      PARTY BUNTING
+539739,1.66,6.64,4,United Kingdom   , 21/12/10   ,   15:19   ,2010-12   ,  Household  ,         Lamps,       SMALL HEART MEASURING SPOONS
+581023,7.46,29.84,4,United Kingdom   ,  7/12/11   ,   10:35   ,2011-12   ,    Clothes  ,         Shoes, SET 6 SCHOOL MILK BOTTLES IN CRATE
+579508,3.29,3.29,1,United Kingdom   , 29/11/11   ,   16:33   ,2011-11   ,     Garden  ,         Seeds,     CERAMIC CHERRY CAKE MONEY BANK
+575176,0.42,0.84,2,United Kingdom   ,  8/11/11   ,   18:29   ,2011-11   ,    Clothes  ,         Shoes,                 CARD SUKI BIRTHDAY
+573876,0.55,1.1,2,United Kingdom   ,  1/11/11   ,   12:48   ,2011-11   ,  Household  ,      Curtains,SET OF 60 I LOVE LONDON CAKE CASES 
+559818,0.55,79.2,144,United Kingdom   ,  12/7/11   ,   16:37   ,2011-07   ,     Garden  ,         Seeds,COLOUR GLASS T-LIGHT HOLDER HANGING
+536409,4.95,4.95,1,United Kingdom   ,  1/12/10   ,   11:45   ,2010-12   ,    Kitchen  ,        Scales,         CHOCOLATE HOT WATER BOTTLE
+569220,1.25,2.5,2,United Kingdom   ,  2/10/11   ,   13:26   ,2011-10   ,     Garden  ,          Turf,       MODERN FLORAL STATIONERY SET
+547947,1.65,16.5,10,United Kingdom   ,  28/3/11   ,   15:03   ,2011-03   ,  Household  ,         Lamps,            LUNCH BAG PINK POLKADOT
+557311,4.25,8.5,2,United Kingdom   ,  19/6/11   ,   15:36   ,2011-06   ,    Kitchen  ,        Plates,SET3 BOOK BOX GREEN GINGHAM FLOWER 
+551718,1.63,1.63,1,United Kingdom   ,   3/5/11   ,   16:06   ,2011-05   ,  Household  ,      Curtains,                 VINTAGE SNAP CARDS
+557502,2.46,2.46,1,United Kingdom   ,  20/6/11   ,   15:32   ,2011-06   ,  Household  ,          Rugs,   CIRCUS PARADE CHILDRENS EGG CUP 
+578935,1.45,1.45,1,United Kingdom   , 27/11/11   ,   12:52   ,2011-11   ,    Clothes  ,         Shoes,  SKETCHBOOK MAGNETIC SHOPPING LIST
+546100,0.85,10.2,12,United Kingdom   ,   9/3/11   ,   12:04   ,2011-03   ,    Clothes  ,         Shoes,    EASTER DECORATION SITTING BUNNY
+550208,12.46,12.46,1,United Kingdom   ,  15/4/11   ,   10:39   ,2011-04   ,     Garden  ,         Seeds,        VICTORIAN SEWING BOX SMALL 
+575073,7.95,31.8,4,United Kingdom   ,  8/11/11   ,   13:10   ,2011-11   ,    Kitchen  ,        Scales,15CM CHRISTMAS GLASS BALL 20 LIGHTS
+577078,4.13,4.13,1,United Kingdom   , 17/11/11   ,   15:17   ,2011-11   ,    Clothes  ,          Tops,     RED GINGHAM ROSE JEWELLERY BOX
+569790,1.25,1.25,1,United Kingdom   ,  6/10/11   ,   11:42   ,2011-10   ,    Clothes  ,          Tops,             CHOCOLATE BOX RIBBONS 
+579103,1.45,1.45,1,United Kingdom   , 28/11/11   ,   11:39   ,2011-11   ,     Garden  ,         Seeds,      VINTAGE LEAF MAGNETIC NOTEPAD
+559991,4.95,4.95,1,United Kingdom   ,  14/7/11   ,   12:29   ,2011-07   ,    Kitchen  ,         Bowls,                APRON APPLE DELIGHT
+558370,0.85,10.2,12,United Kingdom   ,  28/6/11   ,   15:44   ,2011-06   ,     Garden  ,          Turf,                     SANDALWOOD FAN
+578251,0.85,5.95,7,United Kingdom   , 23/11/11   ,   12:45   ,2011-11   ,    Kitchen  ,         Bowls,     SET OF 6 3D KIT CARDS FOR KIDS
+578533,2.55,15.3,6,United Kingdom   , 24/11/11   ,   14:42   ,2011-11   ,    Kitchen  ,        Plates,            GLITTER BUTTERFLY CLIPS
+571502,1.65,16.5,10,United Kingdom   , 17/10/11   ,   15:18   ,2011-10   ,     Garden  ,         Seeds,         RIBBON REEL FLORA + FAUNA 
+571121,4.95,44.55,9,United Kingdom   , 14/10/11   ,   09:21   ,2011-10   ,    Kitchen  ,Cooking Knives,         CHOCOLATE HOT WATER BOTTLE
+541215,4.95,29.7,6,United Kingdom   ,  14/1/11   ,   13:42   ,2011-01   ,    Clothes  ,          Hats,         CHOCOLATE HOT WATER BOTTLE
+566561,3.75,15,4,United Kingdom   ,  13/9/11   ,   12:13   ,2011-09   ,    Kitchen  ,        Scales,     FELTCRAFT PRINCESS OLIVIA DOLL
+573923,1.25,25,20,United Kingdom   ,  2/11/11   ,   09:31   ,2011-11   ,     Garden  ,         Hoses,            RED SPOT GIFT BAG LARGE
+578263,0.79,15.8,20,United Kingdom   , 23/11/11   ,   13:27   ,2011-11   ,  Household  ,        Chairs, 3 RAFFIA RIBBONS VINTAGE CHRISTMAS
+566279,0.38,1.52,4,United Kingdom   ,  11/9/11   ,   14:09   ,2011-09   ,  Household  ,         Lamps,FOLK ART METAL HEART T-LIGHT HOLDER
+578032,1.65,19.8,12,United Kingdom   , 22/11/11   ,   13:41   ,2011-11   ,  Household  ,      Curtains,      CANDLE HOLDER SILVER MADELINE
+549241,1.65,3.3,2,United Kingdom   ,   7/4/11   ,   11:40   ,2011-04   ,     Garden  ,         Rakes,           PLASTERS IN TIN SPACEBOY
+548354,2.1,75.6,36,United Kingdom   ,  30/3/11   ,   15:06   ,2011-03   ,    Clothes  ,         Shoes,           COFFEE MUG APPLES DESIGN
+560824,0.55,1.65,3,United Kingdom   ,  21/7/11   ,   11:23   ,2011-07   ,    Clothes  ,         Shoes,SET OF 60 I LOVE LONDON CAKE CASES 
+577504,0.42,0.84,2,United Kingdom   , 20/11/11   ,   12:36   ,2011-11   ,    Kitchen  ,       Cutlery,    SET 12 RETRO WHITE CHALK STICKS
+568591,2.08,20.8,10,United Kingdom   ,  28/9/11   ,   10:39   ,2011-09   ,    Clothes  ,          Hats,           JUMBO STORAGE BAG SKULLS
+556959,2.95,17.7,6,United Kingdom   ,  16/6/11   ,   09:17   ,2011-06   ,    Kitchen  ,         Bowls,                  RED RETROSPOT MUG
+567668,1.63,4.89,3,United Kingdom   ,  21/9/11   ,   15:29   ,2011-09   ,    Clothes  ,         Shoes,        CHARLOTTE BAG APPLES DESIGN
+540821,2.51,2.51,1,United Kingdom   ,  11/1/11   ,   13:16   ,2011-01   ,     Garden  ,          Turf,        4 VANILLA BOTANICAL CANDLES
+561195,2.08,4.16,2,United Kingdom   ,  25/7/11   ,   13:57   ,2011-07   ,  Household  ,          Rugs,       SET OF 5 PANCAKE DAY MAGNETS
+538852,2.55,2.55,1,United Kingdom   , 14/12/10   ,   13:33   ,2010-12   ,  Household  ,      Curtains,                  GUMBALL COAT RACK
+563580,9.95,9.95,1,United Kingdom   ,  17/8/11   ,   15:53   ,2011-08   ,    Kitchen  ,       Cutlery,          CAKES AND BOWS GIFT  TAPE
+568701,1.65,19.8,12,United Kingdom   ,  28/9/11   ,   15:07   ,2011-09   ,    Clothes  ,          Tops,             HAND WARMER OWL DESIGN
+579525,2.55,81.6,32,United Kingdom   , 30/11/11   ,   08:23   ,2011-11   ,     Garden  ,         Hoses,       EGG CUP HENRIETTA HEN CREAM 
+576329,8.29,8.29,1,United Kingdom   , 14/11/11   ,   15:22   ,2011-11   ,     Garden  ,         Hoses,    CHARLOTTE BAG VINTAGE ALPHABET 
+543530,5.79,34.74,6,United Kingdom   ,   9/2/11   ,   12:46   ,2011-02   ,     Garden  ,         Seeds,             HAND WARMER OWL DESIGN
+554598,1.45,1.45,1,United Kingdom   ,  25/5/11   ,   11:12   ,2011-05   ,    Clothes  ,         Shoes, CHILDS BREAKFAST SET CIRCUS PARADE
+552310,2.08,4.16,2,United Kingdom   ,   8/5/11   ,   15:22   ,2011-05   ,  Household  ,         Lamps,            MINI PAINT SET VINTAGE 
+581434,3.75,22.5,6,United Kingdom   ,  8/12/11   ,   16:10   ,2011-12   ,    Kitchen  ,         Bowls,         ASSORTED COLOUR MINI CASES
+550901,1.69,13.52,8,United Kingdom   ,  21/4/11   ,   12:12   ,2011-04   ,  Household  ,          Rugs,   RETROSPOT TEA SET CERAMIC 11 PC 
+553507,1.25,2.5,2,United Kingdom   ,  17/5/11   ,   13:35   ,2011-05   ,    Clothes  ,         Shoes,                 WRAP DOILEY DESIGN
+578427,3.75,11.25,3,United Kingdom   , 24/11/11   ,   12:11   ,2011-11   ,    Kitchen  ,        Plates,  MAGNETS PACK OF 4 HOME SWEET HOME
+543826,0.42,0.84,2,United Kingdom   ,  14/2/11   ,   09:41   ,2011-02   ,     Garden  ,          Turf,  LUNCH BOX WITH CUTLERY RETROSPOT 
+579694,4.96,9.92,2,United Kingdom   , 30/11/11   ,   14:11   ,2011-11   ,    Clothes  ,          Tops,          ASSORTED COLOURS SILK FAN
+538071,4.24,4.24,1,United Kingdom   ,  9/12/10   ,   14:09   ,2010-12   ,     Garden  ,         Hoses,      SET/6 RED SPOTTY PAPER PLATES
+571200,1.65,19.8,12,United Kingdom   , 14/10/11   ,   12:25   ,2011-10   ,    Clothes  ,         Shoes, METAL DECORATION NAUGHTY CHILDREN 
+579456,2.1,2.1,1,United Kingdom   , 29/11/11   ,   14:20   ,2011-11   ,  Household  ,        Chairs,          PLASTERS IN TIN STRONGMAN
+555115,4.96,19.84,4,United Kingdom   ,  31/5/11   ,   14:58   ,2011-05   ,  Household  ,          Rugs,          LUNCH BAG DOILEY PATTERN 
+557739,0.55,85.8,156,United Kingdom   ,  22/6/11   ,   11:43   ,2011-06   ,    Clothes  ,          Tops,       ADVENT CALENDAR GINGHAM SACK
+554368,3.75,22.5,6,United Kingdom   ,  24/5/11   ,   10:33   ,2011-05   ,     Garden  ,          Turf,        DOORMAT WELCOME TO OUR HOME
+542602,7.95,15.9,2,United Kingdom   ,  30/1/11   ,   12:09   ,2011-01   ,     Garden  ,         Hoses,        WRAP VINTAGE PETALS  DESIGN
+546237,0.85,8.5,10,United Kingdom   ,  10/3/11   ,   12:50   ,2011-03   ,     Garden  ,          Turf,             WOODLAND CHARLOTTE BAG
+576634,1.65,39.6,24,United Kingdom   , 16/11/11   ,   09:28   ,2011-11   ,  Household  ,        Chairs,                            POSTAGE
+561231,1.25,12.5,10,United Kingdom   ,  26/7/11   ,   10:20   ,2011-07   ,  Household  ,          Rugs,    GREEN REGENCY TEACUP AND SAUCER
+540536,4.95,4.95,1,United Kingdom   ,   9/1/11   ,   14:21   ,2011-01   ,    Kitchen  ,        Scales,                  WRAP GREEN PEARS 
+570088,0.85,1.7,2,United Kingdom   ,  7/10/11   ,   11:32   ,2011-10   ,  Household  ,         Lamps,       SPACEBOY ROCKET LOLLY MAKERS
+577938,2.95,2.95,1,United Kingdom   , 22/11/11   ,   12:07   ,2011-11   ,    Kitchen  ,        Plates,                    WRAP DOLLY GIRL
+578270,6.63,79.56,12,United Kingdom   , 23/11/11   ,   13:39   ,2011-11   ,     Garden  ,         Hoses,      SET OF 6 HERB TINS SKETCHBOOK
+575516,1.65,19.8,12,United Kingdom   , 10/11/11   ,   10:45   ,2011-11   ,    Kitchen  ,       Cutlery,       200 RED + WHITE BENDY STRAWS
+555336,0.42,1.68,4,United Kingdom   ,   2/6/11   ,   11:13   ,2011-06   ,  Household  ,      Curtains,          ENAMEL WATERING CAN CREAM
+570210,1.45,1.45,1,United Kingdom   ,  9/10/11   ,   10:48   ,2011-10   ,    Clothes  ,          Hats,        PINK HAPPY BIRTHDAY BUNTING
+563585,1.25,1.25,1,United Kingdom   ,  17/8/11   ,   17:01   ,2011-08   ,    Clothes  ,          Tops,       PACK OF 6 SKULL PAPER PLATES
+555604,5.95,35.7,6,United Kingdom   ,   6/6/11   ,   11:37   ,2011-06   ,     Garden  ,         Seeds,              HEART OF WICKER SMALL
+539492,1.66,3.32,2,United Kingdom   , 20/12/10   ,   10:14   ,2010-12   ,    Clothes  ,          Tops,        DOORMAT WELCOME TO OUR HOME
+579274,8.25,16.5,2,United Kingdom   , 29/11/11   ,   10:01   ,2011-11   ,    Kitchen  ,       Cutlery,     JUMBO BAG PINK VINTAGE PAISLEY
+556887,2.95,2.95,1,United Kingdom   ,  15/6/11   ,   12:36   ,2011-06   ,     Garden  ,         Hoses,      3D CHRISTMAS STAMPS STICKERS 
+554814,2.08,20.8,10,United Kingdom   ,  26/5/11   ,   13:34   ,2011-05   ,  Household  ,      Curtains,         TREASURE TIN BUFFALO BILL 
+555276,4.96,4.96,1,United Kingdom   ,   1/6/11   ,   17:28   ,2011-06   ,  Household  ,         Lamps,      BLUE SPOT CERAMIC DRAWER KNOB
+553340,1.25,25,20,United Kingdom   ,  16/5/11   ,   12:20   ,2011-05   ,    Kitchen  ,       Cutlery,      CHILDRENS APRON APPLES DESIGN
+540255,1.66,1.66,1,United Kingdom   ,   5/1/11   ,   16:50   ,2011-01   ,    Clothes  ,         Shoes,                   DOORMAT AIRMAIL 
+569229,2.95,2.95,1,United Kingdom   ,  2/10/11   ,   14:56   ,2011-10   ,     Garden  ,         Seeds,           DOLLY GIRL MINI BACKPACK
+564660,3.75,15,4,United Kingdom   ,  26/8/11   ,   14:45   ,2011-08   ,     Garden  ,          Turf,  HEART WREATH DECORATION WITH BELL
+543923,2.95,35.4,12,United Kingdom   ,  14/2/11   ,   14:14   ,2011-02   ,    Kitchen  ,        Plates,                APRON APPLE DELIGHT
+579002,0.29,1.45,5,United Kingdom   , 27/11/11   ,   16:27   ,2011-11   ,    Kitchen  ,        Plates,  STRAWBERRY LUNCH BOX WITH CUTLERY
+559934,0.39,14.04,36,United Kingdom   ,  14/7/11   ,   09:58   ,2011-07   ,    Clothes  ,          Hats,        PAPER BUNTING COLOURED LACE
+547399,4.13,16.52,4,United Kingdom   ,  22/3/11   ,   16:55   ,2011-03   ,     Garden  ,          Turf,         TRADITIONAL KNITTING NANCY
+564350,5.75,23,4,United Kingdom   ,  24/8/11   ,   14:57   ,2011-08   ,    Clothes  ,         Shoes,           JUMBO BAG VINTAGE DOILY 
+556187,9.95,39.8,4,United Kingdom   ,   9/6/11   ,   11:49   ,2011-06   ,    Clothes  ,          Hats,              RAIN PONCHO RETROSPOT
+566297,0.29,1.74,6,United Kingdom   ,  11/9/11   ,   15:50   ,2011-09   ,  Household  ,      Curtains,        LARGE CHINESE STYLE SCISSOR
+567303,2.95,35.4,12,United Kingdom   ,  19/9/11   ,   13:20   ,2011-09   ,    Kitchen  ,        Scales,PINK AND WHITE CHRISTMAS TREE 120CM
+544928,5.79,5.79,1,United Kingdom   ,  24/2/11   ,   18:07   ,2011-02   ,     Garden  ,         Rakes,     FAIRY CAKE BIRTHDAY CANDLE SET
+538097,1.65,13.2,8,United Kingdom   ,  9/12/10   ,   14:56   ,2010-12   ,     Garden  ,         Rakes,     MINI LIGHTS WOODLAND MUSHROOMS
+547513,4.25,4.25,1,United Kingdom   ,  23/3/11   ,   13:59   ,2011-03   ,    Kitchen  ,        Plates,       PACK 3 BOXES BIRD PANNETONE 
+561695,1.45,34.8,24,United Kingdom   ,  29/7/11   ,   10:00   ,2011-07   ,     Garden  ,          Turf,           REGENCY CAKESTAND 3 TIER
+566005,2.55,7.65,3,United Kingdom   ,   8/9/11   ,   11:56   ,2011-09   ,    Clothes  ,          Tops,           REGENCY CAKESTAND 3 TIER
+562933,1.63,1.63,1,United Kingdom   ,  10/8/11   ,   16:51   ,2011-08   ,    Kitchen  ,         Bowls,          MULTICOLOUR HONEYCOMB FAN
+551009,4.13,4.13,1,United Kingdom   ,  26/4/11   ,   09:50   ,2011-04   ,     Garden  ,         Hoses,           RED RETROSPOT CAKE STAND
+542869,3.95,15.8,4,United Kingdom   ,   1/2/11   ,   12:27   ,2011-02   ,    Kitchen  ,Cooking Knives,       PACK OF 12 WOODLAND TISSUES 
+565232,3.29,6.58,2,United Kingdom   ,   2/9/11   ,   09:30   ,2011-09   ,    Kitchen  ,        Scales,     PACK OF 6 PANNETONE GIFT BOXES
+574293,1.7,163.2,96,United Kingdom   ,  3/11/11   ,   15:32   ,2011-11   ,     Garden  ,         Rakes,            PANTRY WASHING UP BRUSH
+578262,0.39,1.17,3,United Kingdom   , 23/11/11   ,   13:27   ,2011-11   ,    Clothes  ,          Tops,        SET/6 RED SPOTTY PAPER CUPS
+576855,0.29,6.38,22,United Kingdom   , 16/11/11   ,   15:51   ,2011-11   ,    Kitchen  ,        Scales,                  RED BABY BUNTING 
+575117,0.55,0.55,1,United Kingdom   ,  8/11/11   ,   14:22   ,2011-11   ,  Household  ,         Lamps,           COFFEE MUG PEARS  DESIGN
+581219,0.83,5.81,7,United Kingdom   ,  8/12/11   ,   09:28   ,2011-12   ,  Household  ,         Lamps,                   HOLIDAY FUN LUDO
+543057,1.06,445.2,420,United Kingdom   ,   3/2/11   ,   10:50   ,2011-02   ,  Household  ,      Curtains,  ANT COPPER TURQ BOUDICCA BRACELET
+555548,12.75,51,4,United Kingdom   ,   5/6/11   ,   13:16   ,2011-06   ,    Kitchen  ,        Plates, ROUND SNACK BOXES SET OF 4 FRUITS 
+580996,2.1,14.7,7,United Kingdom   ,  6/12/11   ,   17:18   ,2011-12   ,    Clothes  ,          Hats,   TRADITIONAL PICK UP STICKS GAME 
+567823,1.25,15,12,United Kingdom   ,  22/9/11   ,   12:55   ,2011-09   ,     Garden  ,         Seeds,SET OF 60 I LOVE LONDON CAKE CASES 
+551534,1.25,30,24,United Kingdom   ,   1/5/11   ,   14:59   ,2011-05   ,    Kitchen  ,Cooking Knives, WOODEN TREE CHRISTMAS SCANDINAVIAN
+580136,12.5,12.5,1,United Kingdom   ,  1/12/11   ,   19:42   ,2011-12   ,  Household  ,      Curtains,                     FUNKY DIVA PEN
+537640,5.06,10.12,2,United Kingdom   ,  7/12/10   ,   15:31   ,2010-12   ,    Clothes  ,          Hats,         BREAD BIN DINER STYLE PINK
+559038,10.79,323.7,30,United Kingdom   ,   5/7/11   ,   15:31   ,2011-07   ,    Kitchen  ,        Scales,              PANTRY CHOPPING BOARD
+556125,2.1,12.6,6,United Kingdom   ,   9/6/11   ,   10:20   ,2011-06   ,    Kitchen  ,        Scales,     SET 2 PANTRY DESIGN TEA TOWELS
+576948,2.08,20.8,10,United Kingdom   , 17/11/11   ,   11:45   ,2011-11   ,    Clothes  ,          Tops,            SPACEBOY TV DINNER TRAY
+566279,0.19,0.38,2,United Kingdom   ,  11/9/11   ,   14:09   ,2011-09   ,    Clothes  ,          Tops,     EMBROIDERED RIBBON REEL DAISY 
+536420,2.95,17.7,6,United Kingdom   ,  1/12/10   ,   12:03   ,2010-12   ,     Garden  ,         Rakes,                 KIDS RAIN MAC BLUE
+562551,2.25,2.25,1,United Kingdom   ,   5/8/11   ,   16:19   ,2011-08   ,    Clothes  ,         Shoes,                            POSTAGE
+541810,8.29,8.29,1,United Kingdom   ,  21/1/11   ,   15:00   ,2011-01   ,    Clothes  ,         Shoes, WHITE SPOT RED CERAMIC DRAWER KNOB
+551547,4.96,69.44,14,United Kingdom   ,   3/5/11   ,   09:44   ,2011-05   ,  Household  ,        Chairs,   CHILDS BREAKFAST SET DOLLY GIRL 
+551718,5.79,11.58,2,United Kingdom   ,   3/5/11   ,   16:06   ,2011-05   ,    Kitchen  ,         Bowls,                 LUNCH BAG WOODLAND
+540468,2.51,2.51,1,United Kingdom   ,   7/1/11   ,   13:55   ,2011-01   ,     Garden  ,         Rakes,             LUNCH BAG APPLE DESIGN
+538199,4.95,4.95,1,United Kingdom   , 10/12/10   ,   11:02   ,2010-12   ,     Garden  ,         Seeds,          PLASTERS IN TIN STRONGMAN
+579472,1.25,1.25,1,United Kingdom   , 29/11/11   ,   15:09   ,2011-11   ,    Kitchen  ,      Coasters,     LIGHT GARLAND BUTTERFILES PINK
+538683,1.25,7.5,6,United Kingdom   , 13/12/10   ,   17:40   ,2010-12   ,    Kitchen  ,      Coasters,    CLOTHES PEGS RETROSPOT PACK 24 
+577396,1.65,19.8,12,United Kingdom   , 18/11/11   ,   17:11   ,2011-11   ,    Kitchen  ,      Coasters,      SET/6 RED SPOTTY PAPER PLATES
+546366,0.85,2.55,3,United Kingdom   ,  11/3/11   ,   11:37   ,2011-03   ,  Household  ,        Chairs,     CHILDS BREAKFAST SET SPACEBOY 
+576274,0.42,5.04,12,United Kingdom   , 14/11/11   ,   14:24   ,2011-11   ,  Household  ,         Lamps,        ROLL WRAP VINTAGE CHRISTMAS
+569815,1.65,99,60,United Kingdom   ,  6/10/11   ,   11:53   ,2011-10   ,    Kitchen  ,        Scales,        MINI PLAYING CARDS GYMKHANA
+555408,5.95,11.9,2,United Kingdom   ,   3/6/11   ,   08:54   ,2011-06   ,    Kitchen  ,Cooking Knives,   RETROSPOT HEART HOT WATER BOTTLE
+549014,4.95,4.95,1,United Kingdom   ,   5/4/11   ,   15:00   ,2011-04   ,     Garden  ,          Turf, SET OF 72 RETROSPOT PAPER  DOILIES
+569105,0.42,10.08,24,United Kingdom   ,  30/9/11   ,   12:35   ,2011-09   ,  Household  ,        Chairs,             JAM MAKING SET PRINTED
+568050,4.15,4.15,1,United Kingdom   ,  23/9/11   ,   12:38   ,2011-09   ,  Household  ,         Lamps,       SET OF 5 PANCAKE DAY MAGNETS
+542087,0.55,13.2,24,United Kingdom   ,  25/1/11   ,   12:35   ,2011-01   ,     Garden  ,         Hoses,    CLOTHES PEGS RETROSPOT PACK 24 
+571283,0.85,3.4,4,United Kingdom   , 16/10/11   ,   13:51   ,2011-10   ,    Clothes  ,         Shoes,           RED RETROSPOT CAKE STAND
+571457,0.39,9.36,24,United Kingdom   , 17/10/11   ,   14:01   ,2011-10   ,    Clothes  ,          Hats,    RED KUKUI COCONUT SEED NECKLACE
+557208,4.95,39.6,8,United Kingdom   ,  17/6/11   ,   11:38   ,2011-06   ,    Kitchen  ,         Bowls,                            POSTAGE
+576695,0.42,5.04,12,United Kingdom   , 16/11/11   ,   12:25   ,2011-11   ,     Garden  ,          Turf,        HOME SWEET HOME METAL SIGN 
+550326,1.25,7.5,6,United Kingdom   ,  17/4/11   ,   13:05   ,2011-04   ,    Clothes  ,         Shoes, METAL 4 HOOK HANGER FRENCH CHATEAU
+575898,1.25,3.75,3,United Kingdom   , 11/11/11   ,   15:08   ,2011-11   ,     Garden  ,         Seeds,        GIFT BAG PSYCHEDELIC APPLES
+543285,2.95,17.7,6,United Kingdom   ,   7/2/11   ,   09:48   ,2011-02   ,  Household  ,         Lamps, ASS FLORAL PRINT MULTI SCREWDRIVER
+556636,0.83,1.66,2,United Kingdom   ,  13/6/11   ,   15:30   ,2011-06   ,     Garden  ,         Rakes,   ZINC WILLIE WINKIE  CANDLE STICK
+542621,0.65,7.8,12,       Germany   ,  31/1/11   ,   09:05   ,2011-01   ,     Garden  ,         Hoses,    PACK OF 72 RETROSPOT CAKE CASES
+572241,2.1,25.2,12,       Germany   , 21/10/11   ,   15:20   ,2011-10   ,    Clothes  ,          Hats,  HEART WOODEN CHRISTMAS DECORATION
+578024,1.25,15,12,       Germany   , 22/11/11   ,   13:27   ,2011-11   ,    Kitchen  ,        Plates, SET/10 PINK POLKADOT PARTY CANDLES
+555553,0.85,8.5,10,       Germany   ,   5/6/11   ,   13:45   ,2011-06   ,  Household  ,         Lamps,             STOOL HOME SWEET HOME 
+580511,2.1,50.4,24,       Germany   ,  4/12/11   ,   13:54   ,2011-12   ,  Household  ,          Rugs,    MAGIC DRAWING SLATE DOLLY GIRL 
+550620,8.5,34,4,       Germany   ,  19/4/11   ,   13:39   ,2011-04   ,  Household  ,        Chairs,                 LUNCH BAG WOODLAND
+564039,0.65,23.4,36,       Germany   ,  22/8/11   ,   12:40   ,2011-08   ,    Clothes  ,          Hats,              CACTI T-LIGHT CANDLES
+571304,7.95,15.9,2,       Germany   , 17/10/11   ,   09:37   ,2011-10   ,    Kitchen  ,       Cutlery,           SET/6 COLLAGE PAPER CUPS
+562035,4.95,14.85,3,       Germany   ,   2/8/11   ,   09:29   ,2011-08   ,     Garden  ,         Rakes,  LUNCH BOX WITH CUTLERY RETROSPOT 
+560569,0.42,10.5,25,       Germany   ,  19/7/11   ,   14:04   ,2011-07   ,    Clothes  ,          Tops,  SET OF SALT AND PEPPER TOADSTOOLS
+571724,0.39,4.68,12,       Germany   , 19/10/11   ,   08:20   ,2011-10   ,  Household  ,      Curtains,            EDWARDIAN PARASOL BLACK
+552978,2.1,126,60,       Germany   ,  12/5/11   ,   14:46   ,2011-05   ,    Kitchen  ,        Plates,       SMALL RED RETROSPOT WINDMILL
+552978,0.65,390,600,       Germany   ,  12/5/11   ,   14:46   ,2011-05   ,     Garden  ,         Seeds, ROUND SNACK BOXES SET OF 4 FRUITS 
+540410,0.85,10.2,12,       Germany   ,   7/1/11   ,   10:04   ,2011-01   ,    Clothes  ,          Hats,    PAPER CHAIN KIT 50'S CHRISTMAS 
+539957,0.85,20.4,24,       Germany   , 23/12/10   ,   12:58   ,2010-12   ,    Kitchen  ,        Scales,  MAGNETS PACK OF 4 HOME SWEET HOME
+564749,1.65,19.8,12,       Germany   ,  30/8/11   ,   08:15   ,2011-08   ,     Garden  ,         Rakes,              LONDON BUS COFFEE MUG
+556517,1.65,33,20,       Germany   ,  13/6/11   ,   10:52   ,2011-06   ,     Garden  ,         Rakes,           SET OF 6 T-LIGHTS CACTI 
+578024,5.95,35.7,6,       Germany   , 22/11/11   ,   13:27   ,2011-11   ,     Garden  ,         Seeds,      ROMANTIC IMAGES GIFT WRAP SET
+558881,7.95,15.9,2,       Germany   ,   4/7/11   ,   14:36   ,2011-07   ,    Kitchen  ,       Cutlery,           PLASTERS IN TIN SPACEBOY
+547925,0.42,10.5,25,       Germany   ,  28/3/11   ,   13:57   ,2011-03   ,     Garden  ,         Rakes,           LUNCH BAG PAISLEY PARK  
+576787,0.85,17,20,       Germany   , 16/11/11   ,   13:54   ,2011-11   ,    Kitchen  ,        Plates,         WOODEN SKITTLES GARDEN SET
+552878,18,144,8,       Germany   ,  12/5/11   ,   09:54   ,2011-05   ,     Garden  ,          Turf,          RED RETROSPOT OVEN GLOVE 
+564972,2.95,17.7,6,       Germany   ,  31/8/11   ,   15:30   ,2011-08   ,  Household  ,      Curtains,   SET OF 6 SNACK LOAF BAKING CASES
+564140,0.42,10.5,25,       Germany   ,  23/8/11   ,   11:47   ,2011-08   ,  Household  ,         Lamps,              FELTCRAFT CUSHION OWL
+579416,2.08,37.44,18,       Germany   , 29/11/11   ,   13:00   ,2011-11   ,  Household  ,        Chairs,                    PINK PARTY BAGS
+575787,0.42,10.5,25,       Germany   , 11/11/11   ,   11:18   ,2011-11   ,     Garden  ,         Rakes,  SET/10 RED POLKADOT PARTY CANDLES
+581000,1.25,15,12,       Germany   ,  7/12/11   ,   08:03   ,2011-12   ,     Garden  ,         Hoses,    SET 2 TEA TOWELS I LOVE LONDON 
+561468,1.25,75,60,       Germany   ,  27/7/11   ,   13:00   ,2011-07   ,    Clothes  ,          Tops,   RED RETROSPOT CHILDRENS UMBRELLA
+556578,4.95,19.8,4,       Germany   ,  13/6/11   ,   14:13   ,2011-06   ,  Household  ,        Chairs,    CHILDRENS APRON SPACEBOY DESIGN
+565416,5.45,16.35,3,       Germany   ,   4/9/11   ,   12:00   ,2011-09   ,    Clothes  ,          Tops,     RED ROCKING HORSE HAND PAINTED
+540458,0.85,10.2,12,       Germany   ,   7/1/11   ,   12:28   ,2011-01   ,    Clothes  ,         Shoes,CHARLIE & LOLA WASTEPAPER BIN FLORA
+561911,1.65,19.8,12,       Germany   ,   1/8/11   ,   10:26   ,2011-08   ,  Household  ,        Chairs,                            POSTAGE
+543587,7.95,15.9,2,       Germany   ,  10/2/11   ,   11:39   ,2011-02   ,    Clothes  ,          Hats,                 WRAP DOILEY DESIGN
+549193,2.08,20.8,10,       Germany   ,   7/4/11   ,   10:24   ,2011-04   ,     Garden  ,         Rakes,  SET OF 12 FAIRY CAKE BAKING CASES
+577615,1.25,22.5,18,       Germany   , 21/11/11   ,   10:22   ,2011-11   ,  Household  ,         Lamps,              JAM JAR WITH PINK LID
+556509,2.08,12.48,6,       Germany   ,  13/6/11   ,   10:33   ,2011-06   ,    Clothes  ,          Hats,      RED TOADSTOOL LED NIGHT LIGHT
+568056,1.45,17.4,12,       Germany   ,  23/9/11   ,   12:55   ,2011-09   ,    Clothes  ,          Hats,   RETROSPOT TEA SET CERAMIC 11 PC 
+537201,1.95,15.6,8,       Germany   ,  5/12/10   ,   14:19   ,2010-12   ,    Kitchen  ,       Cutlery,   WHITE ROCKING HORSE HAND PAINTED
+540553,7.95,15.9,2,       Germany   ,  10/1/11   ,   09:48   ,2011-01   ,  Household  ,      Curtains,         SET OF 3 REGENCY CAKE TINS
+571065,4.15,16.6,4,       Germany   , 13/10/11   ,   14:59   ,2011-10   ,    Kitchen  ,       Cutlery,           STRAWBERRY CHARLOTTE BAG
+560635,1.25,15,12,       Germany   ,  20/7/11   ,   10:51   ,2011-07   ,     Garden  ,         Rakes,                  SOLDIERS EGG CUP 
+554861,4.95,19.8,4,       Germany   ,  27/5/11   ,   10:29   ,2011-05   ,    Clothes  ,          Hats,            QUEENS GUARD COFFEE MUG
+565765,2.55,15.3,6,       Germany   ,   6/9/11   ,   14:19   ,2011-09   ,    Kitchen  ,Cooking Knives,SET/20 RED RETROSPOT PAPER NAPKINS 
+540458,2.95,17.7,6,       Germany   ,   7/1/11   ,   12:28   ,2011-01   ,  Household  ,      Curtains,                 BLUE POLKADOT WRAP
+571658,1.65,19.8,12,       Germany   , 18/10/11   ,   12:48   ,2011-10   ,     Garden  ,         Hoses,      CHILDRENS APRON APPLES DESIGN
+576787,2.08,20.8,10,       Germany   , 16/11/11   ,   13:54   ,2011-11   ,    Clothes  ,          Tops,        12 PENCILS SMALL TUBE SKULL
+541965,0.85,20.4,24,       Germany   ,  24/1/11   ,   13:27   ,2011-01   ,    Kitchen  ,       Cutlery,            BLUE ROSE FABRIC MIRROR
+556443,0.85,8.5,10,       Germany   ,  10/6/11   ,   15:28   ,2011-06   ,    Kitchen  ,        Plates,           RIBBON REEL LACE DESIGN 
+567666,2.95,17.7,6,       Germany   ,  21/9/11   ,   15:23   ,2011-09   ,     Garden  ,         Seeds,      CHILDRENS APRON APPLES DESIGN
+542713,3.75,30,8,       Germany   ,  31/1/11   ,   13:27   ,2011-01   ,     Garden  ,          Turf,                 RABBIT NIGHT LIGHT
+576890,3.75,15,4,       Germany   , 16/11/11   ,   17:25   ,2011-11   ,  Household  ,         Lamps,             SPACEBOY MINI BACKPACK
+555162,1.95,23.4,12,       Germany   ,   1/6/11   ,   10:15   ,2011-06   ,  Household  ,      Curtains,                            POSTAGE
+569893,12.75,12.75,1,       Germany   ,  6/10/11   ,   15:51   ,2011-10   ,    Kitchen  ,Cooking Knives,  SET OF SALT AND PEPPER TOADSTOOLS
+543056,10.95,350.4,32,       Germany   ,   3/2/11   ,   10:47   ,2011-02   ,  Household  ,          Rugs,     PLASTERS IN TIN CIRCUS PARADE 
+581266,0.39,4.68,12,       Germany   ,  8/12/11   ,   11:25   ,2011-12   ,  Household  ,          Rugs,                  PINK BABY BUNTING
+553741,10.95,65.7,6,       Germany   ,  19/5/11   ,   09:37   ,2011-05   ,    Clothes  ,          Tops,        PACK OF 12 COLOURED PENCILS
+565416,0.29,6.96,24,       Germany   ,   4/9/11   ,   12:00   ,2011-09   ,    Kitchen  ,      Coasters,    PINK FAIRY CAKE CHILDRENS APRON
+555162,2.55,15.3,6,       Germany   ,   1/6/11   ,   10:15   ,2011-06   ,     Garden  ,         Seeds,     PACK OF 60 MUSHROOM CAKE CASES
+555282,1.45,17.4,12,       Germany   ,   2/6/11   ,   09:04   ,2011-06   ,    Clothes  ,          Hats,   WOODLAND PARTY BAG + STICKER SET
+549316,0.65,7.8,12,       Germany   ,   8/4/11   ,   09:54   ,2011-04   ,    Kitchen  ,        Scales,                            POSTAGE
+560728,2.95,14.75,5,       Germany   ,  20/7/11   ,   14:38   ,2011-07   ,     Garden  ,          Turf,     PANTRY MAGNETIC  SHOPPING LIST
+544573,2.55,30.6,12,       Germany   ,  21/2/11   ,   13:40   ,2011-02   ,  Household  ,        Chairs,       COFFEE MUG CAT + BIRD DESIGN
+546759,3.75,15,4,       Germany   ,  16/3/11   ,   13:58   ,2011-03   ,    Kitchen  ,Cooking Knives,               MINI JIGSAW SPACEBOY
+568350,4.95,44.55,9,       Germany   ,  26/9/11   ,   15:35   ,2011-09   ,    Clothes  ,         Shoes,         LUNCH BAG SPACEBOY DESIGN 
+578509,2.95,17.7,6,       Germany   , 24/11/11   ,   13:17   ,2011-11   ,     Garden  ,         Hoses,         SET OF 3 REGENCY CAKE TINS
+581266,1.25,15,12,       Germany   ,  8/12/11   ,   11:25   ,2011-12   ,     Garden  ,         Rakes,        12 PENCILS SMALL TUBE SKULL
+567958,0.55,13.2,24,       Germany   ,  23/9/11   ,   09:00   ,2011-09   ,    Clothes  ,          Hats,  RETROSPOT PARTY BAG + STICKER SET
+537201,0.85,20.4,24,       Germany   ,  5/12/10   ,   14:19   ,2010-12   ,  Household  ,        Chairs,SET/20 RED RETROSPOT PAPER NAPKINS 
+538174,0.85,81.6,96,       Germany   , 10/12/10   ,   09:35   ,2010-12   ,  Household  ,        Chairs,        DOORMAT WELCOME TO OUR HOME
+539395,14.95,89.7,6,       Germany   , 17/12/10   ,   11:52   ,2010-12   ,    Kitchen  ,        Scales,          ALARM CLOCK BAKELIKE RED 
+568674,4.95,14.85,3,       Germany   ,  28/9/11   ,   13:30   ,2011-09   ,    Clothes  ,          Tops,      RED TOADSTOOL LED NIGHT LIGHT
+568674,3.25,19.5,6,       Germany   ,  28/9/11   ,   13:30   ,2011-09   ,    Clothes  ,          Hats,       CREAM FELT EASTER EGG BASKET
+545718,4.95,14.85,3,       Germany   ,   7/3/11   ,   10:22   ,2011-03   ,     Garden  ,         Hoses,       TREASURE TIN GYMKHANA DESIGN
+573284,2.08,12.48,6,       Germany   , 28/10/11   ,   14:27   ,2011-10   ,  Household  ,          Rugs,          PLASTERS IN TIN STRONGMAN
+542128,0.85,20.4,24,       Germany   ,  25/1/11   ,   15:13   ,2011-01   ,     Garden  ,         Rakes,             WRAP RED VINTAGE DOILY
+576607,18,72,4,       Germany   , 15/11/11   ,   15:42   ,2011-11   ,    Kitchen  ,Cooking Knives,           RED RETROSPOT CAKE STAND
+564856,1.25,15,12,       Germany   ,  31/8/11   ,   09:11   ,2011-08   ,     Garden  ,         Rakes,           REGENCY SUGAR BOWL GREEN
+540458,9.95,19.9,2,       Germany   ,   7/1/11   ,   12:28   ,2011-01   ,    Clothes  ,          Tops,        SET/6 RED SPOTTY PAPER CUPS
+567904,1.65,16.5,10,       Germany   ,  22/9/11   ,   16:34   ,2011-09   ,    Clothes  ,          Tops,      GROW YOUR OWN PLANT IN A CAN 
+564079,1.65,16.5,10,       Germany   ,  22/8/11   ,   15:55   ,2011-08   ,    Clothes  ,          Hats,                   CARD DOLLY GIRL 
+542369,1.65,39.6,24,       Germany   ,  27/1/11   ,   13:08   ,2011-01   ,    Clothes  ,          Hats,                 PINK POLKADOT BOWL
+572061,4.25,17,4,       Germany   , 20/10/11   ,   12:53   ,2011-10   ,    Clothes  ,          Tops,                     SPOTTY BUNTING
+560876,1.65,19.8,12,       Germany   ,  21/7/11   ,   15:14   ,2011-07   ,     Garden  ,         Seeds,         MAGNETS PACK OF 4 SWALLOWS
+547383,0.85,10.2,12,       Germany   ,  22/3/11   ,   15:42   ,2011-03   ,     Garden  ,         Rakes,        CHARLOTTE BAG PINK POLKADOT
+577135,8.5,68,8,       Germany   , 18/11/11   ,   08:56   ,2011-11   ,     Garden  ,         Hoses,   WHITE ROCKING HORSE HAND PAINTED
+576890,1.25,15,12,       Germany   , 16/11/11   ,   17:25   ,2011-11   ,    Kitchen  ,       Cutlery,               WRAP ALPHABET DESIGN
+572061,0.42,8.4,20,       Germany   , 20/10/11   ,   12:53   ,2011-10   ,     Garden  ,         Rakes,                 RABBIT NIGHT LIGHT
+571065,4.95,14.85,3,       Germany   , 13/10/11   ,   14:59   ,2011-10   ,    Clothes  ,          Hats,                            POSTAGE
+542106,1.45,69.6,48,       Germany   ,  25/1/11   ,   13:37   ,2011-01   ,     Garden  ,          Turf,             10 COLOUR SPACEBOY PEN
+540769,1.45,17.4,12,       Germany   ,  11/1/11   ,   10:38   ,2011-01   ,    Clothes  ,          Hats,               DOORMAT BLACK FLOCK 
+559298,2.08,24.96,12,       Germany   ,   7/7/11   ,   12:38   ,2011-07   ,    Clothes  ,          Hats,         GYMKHANA TREASURE BOOK BOX
+569893,1.65,19.8,12,       Germany   ,  6/10/11   ,   15:51   ,2011-10   ,     Garden  ,         Rakes,        SET OF 5 LUCKY CAT MAGNETS 
+566233,10.95,10.95,1,       Germany   ,  11/9/11   ,   11:04   ,2011-09   ,    Clothes  ,         Shoes,     6 GIFT TAGS VINTAGE CHRISTMAS 
+568350,1,24,24,       Germany   ,  26/9/11   ,   15:35   ,2011-09   ,    Clothes  ,         Shoes,       RED HEART SHAPE LOVE BUCKET 
+560230,18,36,2,       Germany   ,  17/7/11   ,   10:53   ,2011-07   ,    Kitchen  ,      Coasters,  JUNGLE POPSICLES ICE LOLLY MOULDS
+550137,2.95,35.4,12,       Germany   ,  14/4/11   ,   13:59   ,2011-04   ,  Household  ,        Chairs,               BASKET OF TOADSTOOLS
+543587,2.95,23.6,8,       Germany   ,  10/2/11   ,   11:39   ,2011-02   ,     Garden  ,         Rakes,               SMALL POPCORN HOLDER
+554104,0.65,7.8,12,       Germany   ,  22/5/11   ,   14:03   ,2011-05   ,    Kitchen  ,         Bowls,  CARDHOLDER GINGHAM CHRISTMAS TREE
+560230,0.42,10.08,24,       Germany   ,  17/7/11   ,   10:53   ,2011-07   ,    Kitchen  ,         Bowls,             JUMBO STORAGE BAG SUKI
+574071,0.85,10.2,12,       Germany   ,  2/11/11   ,   14:57   ,2011-11   ,    Clothes  ,          Tops,  5 HOOK HANGER RED MAGIC TOADSTOOL
+540351,0.55,13.2,24,        France   ,   6/1/11   ,   14:26   ,2011-01   ,    Kitchen  ,        Scales,     PINK REGENCY TEACUP AND SAUCER
+574104,0.85,10.2,12,        France   ,  3/11/11   ,   10:45   ,2011-11   ,  Household  ,         Lamps,       WHITE HEART CONFETTI IN TUBE
+538008,1.25,30,24,        France   ,  9/12/10   ,   12:17   ,2010-12   ,  Household  ,         Lamps,          ALARM CLOCK BAKELIKE RED 
+569921,12.5,12.5,1,        France   ,  6/10/11   ,   17:28   ,2011-10   ,     Garden  ,          Turf,            LUNCH BAG SUKI  DESIGN 
+579345,0.42,10.08,24,        France   , 29/11/11   ,   11:46   ,2011-11   ,    Kitchen  ,       Cutlery,   TRADITIONAL WOODEN SKIPPING ROPE
+546479,1.65,16.5,10,        France   ,  14/3/11   ,   11:38   ,2011-03   ,     Garden  ,         Seeds,                 DOORMAT UNION FLAG
+566736,0.42,6.72,16,        France   ,  14/9/11   ,   14:19   ,2011-09   ,    Kitchen  ,        Plates,  UNION STRIPE WITH FRINGE  HAMMOCK
+547722,0.65,7.8,12,        France   ,  25/3/11   ,   10:19   ,2011-03   ,     Garden  ,         Seeds,                     SPOTTY BUNTING
+556529,2.55,30.6,12,        France   ,  13/6/11   ,   11:41   ,2011-06   ,  Household  ,         Lamps,       MODERN FLORAL STATIONERY SET
+536974,1.25,15,12,        France   ,  3/12/10   ,   13:59   ,2010-12   ,    Kitchen  ,       Cutlery,         ASSORTED COLOUR MINI CASES
+547722,5.95,17.85,3,        France   ,  25/3/11   ,   10:19   ,2011-03   ,    Kitchen  ,        Scales,             RED SPOTTY BISCUIT TIN
+556259,1.25,30,24,        France   ,   9/6/11   ,   17:53   ,2011-06   ,     Garden  ,         Seeds,     SET OF 6 TEA TIME BAKING CASES
+579492,2.95,70.8,24,        France   , 29/11/11   ,   15:23   ,2011-11   ,    Kitchen  ,       Cutlery,            DOLLY HONEYCOMB GARLAND
+575629,2.95,17.7,6,        France   , 10/11/11   ,   13:34   ,2011-11   ,     Garden  ,         Seeds,        VINTAGE CHRISTMAS STOCKING 
+579792,0.39,4.68,12,        France   , 30/11/11   ,   15:43   ,2011-11   ,     Garden  ,         Hoses,SQUARECUSHION COVER PINK UNION FLAG
+575692,2.55,7.65,3,        France   , 10/11/11   ,   16:27   ,2011-11   ,     Garden  ,         Hoses,               WRAP ALPHABET DESIGN
+542433,2.95,53.1,18,        France   ,  28/1/11   ,   10:45   ,2011-01   ,  Household  ,      Curtains,               BLUE POLKADOT PLATE 
+540351,2.1,12.6,6,        France   ,   6/1/11   ,   14:26   ,2011-01   ,    Clothes  ,         Shoes,BLUE CHARLIE+LOLA PERSONAL DOORSIGN
+548496,1.45,139.2,96,        France   ,  31/3/11   ,   13:40   ,2011-03   ,    Kitchen  ,Cooking Knives,     FAIRY TALE COTTAGE NIGHT LIGHT
+574506,1.65,1.65,1,        France   ,  4/11/11   ,   13:24   ,2011-11   ,    Clothes  ,          Tops,            MINI PAINT SET VINTAGE 
+544470,12.75,51,4,        France   ,  21/2/11   ,   08:38   ,2011-02   ,    Clothes  ,          Hats,         STORAGE TIN VINTAGE DOILY 
+561795,1.25,12.5,10,        France   ,  29/7/11   ,   13:28   ,2011-07   ,  Household  ,      Curtains,"   SET 3 RETROSPOT TEA,COFFEE,SUGAR"
+569122,0.83,6.64,8,        France   ,  30/9/11   ,   13:06   ,2011-09   ,  Household  ,        Chairs,             REGENCY MILK JUG PINK 
+545583,3.75,15,4,        France   ,   4/3/11   ,   09:08   ,2011-03   ,     Garden  ,         Seeds,                 CARD CIRCUS PARADE
+551544,2.1,63,30,        France   ,   3/5/11   ,   09:33   ,2011-05   ,     Garden  ,         Hoses,           REGENCY SUGAR BOWL GREEN
+568040,1.25,30,24,        France   ,  23/9/11   ,   12:09   ,2011-09   ,    Clothes  ,          Tops,          JUMBO BAG SPACEBOY DESIGN
+579193,3.25,19.5,6,        France   , 28/11/11   ,   15:47   ,2011-11   ,     Garden  ,         Hoses,        SET 8 CANDLES VINTAGE DOILY
+544355,3.25,19.5,6,        France   ,  18/2/11   ,   10:53   ,2011-02   ,     Garden  ,         Hoses,             REGENCY TEA PLATE PINK
+576087,1.95,15.6,8,        France   , 14/11/11   ,   08:31   ,2011-11   ,    Kitchen  ,        Scales,           PAPER BUNTING WHITE LACE
+574104,1.25,30,24,        France   ,  3/11/11   ,   10:45   ,2011-11   ,    Kitchen  ,      Coasters,           RED LOVE HEART SHAPE CUP
+570672,1.25,15,12,        France   , 11/10/11   ,   14:52   ,2011-10   ,  Household  ,        Chairs,                 WRAP ENGLISH ROSE 
+560272,18,18,1,        France   ,  17/7/11   ,   14:56   ,2011-07   ,  Household  ,          Rugs,          SET OF 6 SOLDIER SKITTLES
+561470,0.42,10.5,25,        France   ,  27/7/11   ,   13:14   ,2011-07   ,  Household  ,      Curtains,  JUMBO SHOPPER VINTAGE RED PAISLEY
+564897,0.83,59.76,72,        France   ,  31/8/11   ,   11:22   ,2011-08   ,    Clothes  ,          Tops,      STAR DECORATION PAINTED ZINC 
+543188,0.85,10.2,12,        France   ,   4/2/11   ,   11:45   ,2011-02   ,  Household  ,          Rugs,       HOMEMADE JAM SCENTED CANDLES
+540642,1.65,19.8,12,        France   ,  10/1/11   ,   13:22   ,2011-01   ,    Clothes  ,          Hats,                CORONA MEXICAN TRAY
+540642,4.95,14.85,3,        France   ,  10/1/11   ,   13:22   ,2011-01   ,     Garden  ,          Turf,      CUSHION COVER PINK UNION JACK
+579792,1.25,30,24,        France   , 30/11/11   ,   15:43   ,2011-11   ,    Clothes  ,          Tops,                 LUNCH BAG WOODLAND
+580705,4.95,19.8,4,        France   ,  5/12/11   ,   16:28   ,2011-12   ,    Kitchen  ,        Plates, COWBOYS AND INDIANS BIRTHDAY CARD 
+570672,0.85,8.5,10,        France   , 11/10/11   ,   14:52   ,2011-10   ,    Clothes  ,          Hats,               GIRAFFE WOODEN RULER
+541120,1.25,15,12,        France   ,  14/1/11   ,   09:13   ,2011-01   ,    Kitchen  ,Cooking Knives,  VINTAGE CHRISTMAS GIFT BAG LARGE 
+566816,2.55,61.2,24,        France   ,  15/9/11   ,   10:53   ,2011-09   ,    Kitchen  ,        Scales,  FELTCRAFT PRINCESS CHARLOTTE DOLL
+555941,0.85,10.2,12,        France   ,   8/6/11   ,   10:10   ,2011-06   ,     Garden  ,         Rakes,     FAIRY TALE COTTAGE NIGHT LIGHT
+563288,0.42,10.5,25,        France   ,  15/8/11   ,   12:53   ,2011-08   ,  Household  ,          Rugs,       SET OF 5 PANCAKE DAY MAGNETS
+547504,1.95,15.6,8,        France   ,  23/3/11   ,   13:33   ,2011-03   ,     Garden  ,          Turf,  SET OF 4 KNICK KNACK TINS LEAVES 
+552631,0.65,15.6,24,        France   ,  10/5/11   ,   12:55   ,2011-05   ,    Clothes  ,         Shoes,         HEN HOUSE W CHICK STANDING
+540239,1.25,15,12,        France   ,   5/1/11   ,   14:48   ,2011-01   ,    Kitchen  ,      Coasters,  PACK OF 12 CIRCUS PARADE TISSUES 
+539050,2.1,2.1,1,        France   , 15/12/10   ,   16:21   ,2010-12   ,    Kitchen  ,      Coasters,    YELLOW GIANT GARDEN THERMOMETER
+541120,1.95,15.6,8,        France   ,  14/1/11   ,   09:13   ,2011-01   ,     Garden  ,         Hoses,               BLUE POLKADOT PLATE 
+577295,1.79,128.88,72,        France   , 18/11/11   ,   12:46   ,2011-11   ,    Clothes  ,          Hats, SET OF 6 RIBBONS VINTAGE CHRISTMAS
+570851,4.15,132.8,32,        France   , 12/10/11   ,   14:46   ,2011-10   ,    Kitchen  ,        Scales,        PINK & WHITE BREAKFAST TRAY
+564670,18,108,6,        France   ,  26/8/11   ,   15:44   ,2011-08   ,     Garden  ,         Hoses,        BLUE & WHITE BREAKFAST TRAY
+547892,1.25,15,12,        France   ,  28/3/11   ,   10:15   ,2011-03   ,    Kitchen  ,         Bowls,       PINK BUTTERFLY CUSHION COVER
+544817,1.65,19.8,12,        France   ,  23/2/11   ,   16:44   ,2011-02   ,  Household  ,         Lamps,        BIRDS MOBILE VINTAGE DESIGN
+541121,2.95,44.25,15,        France   ,  14/1/11   ,   09:20   ,2011-01   ,    Clothes  ,          Hats,         DINOSAUR KEYRINGS ASSORTED
+552631,0.85,10.2,12,        France   ,  10/5/11   ,   12:55   ,2011-05   ,    Kitchen  ,      Coasters,        CHILDRENS CUTLERY SPACEBOY 
+567640,1.95,15.6,8,        France   ,  21/9/11   ,   14:08   ,2011-09   ,  Household  ,        Chairs,             MILK PAN RED RETROSPOT
+575067,0.55,13.2,24,        France   ,  8/11/11   ,   12:45   ,2011-11   ,    Kitchen  ,         Bowls,   PLASTERS IN TIN WOODLAND ANIMALS
+565322,1.65,26.4,16,        France   ,   2/9/11   ,   13:15   ,2011-09   ,     Garden  ,         Rakes,     FAIRY CAKE BIRTHDAY CANDLE SET
+580536,18,54,3,        France   ,  4/12/11   ,   16:07   ,2011-12   ,    Clothes  ,         Shoes,      BAKING SET 9 PIECE RETROSPOT 
+570672,1.45,17.4,12,        France   , 11/10/11   ,   14:52   ,2011-10   ,  Household  ,          Rugs,         RECYCLED ACAPULCO MAT PINK
+568040,2.55,15.3,6,        France   ,  23/9/11   ,   12:09   ,2011-09   ,    Kitchen  ,      Coasters,                   HOLIDAY FUN LUDO
+536370,0.42,10.08,24,        France   ,  1/12/10   ,   08:45   ,2010-12   ,     Garden  ,         Rakes,ASSORTED COLOUR LIZARD SUCTION HOOK
+575193,1.65,16.5,10,        France   ,  9/11/11   ,   09:34   ,2011-11   ,    Clothes  ,          Tops,"   SET 3 RETROSPOT TEA,COFFEE,SUGAR"
+563288,4.95,39.6,8,        France   ,  15/8/11   ,   12:53   ,2011-08   ,    Kitchen  ,       Cutlery,                GREEN POLKADOT BOWL
+557734,0.65,31.2,48,        France   ,  22/6/11   ,   11:20   ,2011-06   ,     Garden  ,         Seeds,                TOY TIDY SPACEBOY  
+547087,1.65,13.2,8,        France   ,  20/3/11   ,   15:58   ,2011-03   ,     Garden  ,         Seeds,   RED RETROSPOT CHILDRENS UMBRELLA
+540365,0.85,10.2,12,        France   ,   6/1/11   ,   16:12   ,2011-01   ,    Clothes  ,         Shoes,     PACK OF 60 SPACEBOY CAKE CASES
+570672,8.25,16.5,2,        France   , 11/10/11   ,   14:52   ,2011-10   ,    Kitchen  ,         Bowls,ROUND SNACK BOXES SET OF4 WOODLAND 
+559607,3.75,15,4,        France   ,  11/7/11   ,   11:39   ,2011-07   ,     Garden  ,         Hoses,        12 PENCILS TALL TUBE SKULLS
+541138,1.65,19.8,12,        France   ,  14/1/11   ,   10:42   ,2011-01   ,     Garden  ,          Turf,           RED RETROSPOT CAKE STAND
+540463,1.65,9.9,6,        France   ,   7/1/11   ,   13:13   ,2011-01   ,     Garden  ,         Hoses,         ICE CREAM SUNDAE LIP GLOSS
+570672,2.08,12.48,6,        France   , 11/10/11   ,   14:52   ,2011-10   ,  Household  ,          Rugs,                    PINK PARTY BAGS
+555547,1.65,19.8,12,        France   ,   5/6/11   ,   13:13   ,2011-06   ,    Clothes  ,          Hats,       LARGE HEART MEASURING SPOONS
+568798,0.42,10.5,25,        France   ,  29/9/11   ,   10:23   ,2011-09   ,    Kitchen  ,Cooking Knives,            MINI PAINT SET VINTAGE 
+538008,10.95,21.9,2,        France   ,  9/12/10   ,   12:17   ,2010-12   ,    Clothes  ,          Tops,          RED RETROSPOT OVEN GLOVE 
+555096,4.15,16.6,4,        France   ,  31/5/11   ,   13:32   ,2011-05   ,    Kitchen  ,        Plates,        PACK OF 72 SKULL CAKE CASES
+541631,0.65,7.8,12,        France   ,  20/1/11   ,   10:48   ,2011-01   ,    Kitchen  ,        Scales,       SMALL HEART MEASURING SPOONS
+545301,1.25,30,24,        France   ,   1/3/11   ,   12:26   ,2011-03   ,     Garden  ,         Seeds,CLASSIC FRENCH STYLE BASKET NATURAL
+552315,0.42,5.04,12,        France   ,   8/5/11   ,   16:10   ,2011-05   ,     Garden  ,         Hoses,    CHILDRENS APRON SPACEBOY DESIGN
+570672,1.25,10,8,        France   , 11/10/11   ,   14:52   ,2011-10   ,    Clothes  ,          Tops,        CHARLOTTE BAG PINK POLKADOT
+575067,4.95,44.55,9,        France   ,  8/11/11   ,   12:45   ,2011-11   ,     Garden  ,         Seeds,        RED RETROSPOT CHARLOTTE BAG
+560398,0.39,9.36,24,        France   ,  18/7/11   ,   14:10   ,2011-07   ,     Garden  ,         Hoses,        WATERING CAN GREEN DINOSAUR
+541567,0.85,17,20,        France   ,  19/1/11   ,   11:51   ,2011-01   ,  Household  ,         Lamps,         LUNCH BAG SPACEBOY DESIGN 
+575692,1.25,2.5,2,        France   , 10/11/11   ,   16:27   ,2011-11   ,    Kitchen  ,      Coasters,       MEASURING TAPE BABUSHKA BLUE
+543484,0.42,10.5,25,        France   ,   9/2/11   ,   10:11   ,2011-02   ,     Garden  ,          Turf,                            POSTAGE
+578736,1.79,214.8,120,        France   , 25/11/11   ,   11:33   ,2011-11   ,    Kitchen  ,Cooking Knives,    SET/2 RED RETROSPOT TEA TOWELS 
+570841,18,36,2,        France   , 12/10/11   ,   14:18   ,2011-10   ,  Household  ,      Curtains,          MIRRORED WALL ART POPPIES
+541138,0.85,20.4,24,        France   ,  14/1/11   ,   10:42   ,2011-01   ,    Kitchen  ,Cooking Knives,         LUNCH BAG SPACEBOY DESIGN 
+574506,8.25,8.25,1,        France   ,  4/11/11   ,   13:24   ,2011-11   ,  Household  ,        Chairs,  BLUE 3 PIECE POLKADOT CUTLERY SET
+565931,2.25,18,8,        France   ,   8/9/11   ,   10:35   ,2011-09   ,    Clothes  ,         Shoes,"   SET 3 RETROSPOT TEA,COFFEE,SUGAR"
+553208,2.08,24.96,12,        France   ,  16/5/11   ,   09:10   ,2011-05   ,    Kitchen  ,        Scales,ROUND SNACK BOXES SET OF4 WOODLAND 
+573402,0.83,9.96,12,        France   , 30/10/11   ,   15:44   ,2011-10   ,    Clothes  ,          Tops,                  APPLE BATH SPONGE
+554097,2.95,17.7,6,        France   ,  22/5/11   ,   13:01   ,2011-05   ,     Garden  ,         Rakes,        RECYCLED ACAPULCO MAT GREEN
+556886,1.25,30,24,        France   ,  15/6/11   ,   12:34   ,2011-06   ,    Clothes  ,          Tops,                  RED RETROSPOT CUP
+546428,1.25,15,12,        France   ,  13/3/11   ,   14:55   ,2011-03   ,  Household  ,         Lamps,           36 PENCILS TUBE WOODLAND
+545515,0.85,10.2,12,        France   ,   3/3/11   ,   12:06   ,2011-03   ,     Garden  ,          Turf,     PACK OF 60 MUSHROOM CAKE CASES
+575747,3.25,19.5,6,        France   , 11/11/11   ,   10:19   ,2011-11   ,    Clothes  ,          Tops,   RETROSPOT HEART HOT WATER BOTTLE
+554648,2.08,20.8,10,        France   ,  25/5/11   ,   12:44   ,2011-05   ,  Household  ,         Lamps,                  BLUE POLKADOT CUP
+542904,1.65,39.6,24,        France   ,   1/2/11   ,   14:58   ,2011-02   ,    Clothes  ,          Hats,                 RED RETROSPOT BOWL
+553411,1.65,16.5,10,        France   ,  17/5/11   ,   09:28   ,2011-05   ,     Garden  ,         Rakes,                 JUMBO BAG ALPHABET
+542629,1.25,60,48,        France   ,  31/1/11   ,   09:57   ,2011-01   ,    Kitchen  ,         Bowls,       HOMEMADE JAM SCENTED CANDLES
+575747,1.25,30,24,        France   , 11/11/11   ,   10:19   ,2011-11   ,     Garden  ,         Rakes,          BROWN CHECK CAT DOORSTOP 
+574918,0.65,14.3,22,        France   ,  7/11/11   ,   16:31   ,2011-11   ,     Garden  ,         Seeds,       GLASS JAR DIGESTIVE BISCUITS
+564173,4.15,24.9,6,        France   ,  23/8/11   ,   14:23   ,2011-08   ,     Garden  ,         Seeds,          JUMBO BAG DOILEY PATTERNS
+541120,2.95,35.4,12,        France   ,  14/1/11   ,   09:13   ,2011-01   ,  Household  ,        Chairs,   ROSES REGENCY TEACUP AND SAUCER 
+576927,4.15,16.6,4,        France   , 17/11/11   ,   11:02   ,2011-11   ,     Garden  ,         Seeds,  ANTIQUE SILVER TEA GLASS ENGRAVED
+569568,4.95,19.8,4,        France   ,  5/10/11   ,   09:57   ,2011-10   ,    Kitchen  ,Cooking Knives,                     RETRO MOD TRAY
+574104,4.95,39.6,8,        France   ,  3/11/11   ,   10:45   ,2011-11   ,     Garden  ,          Turf,        JUMBO BAG DOLLY GIRL DESIGN
+552631,0.42,10.08,24,        France   ,  10/5/11   ,   12:55   ,2011-05   ,     Garden  ,          Turf,         RED RETROSPOT PUDDING BOWL
+554940,2.1,25.2,12,        France   ,  27/5/11   ,   13:49   ,2011-05   ,     Garden  ,         Rakes,        PACK OF 20 SPACEBOY NAPKINS
+581587,4.15,16.6,4,        France   ,  9/12/11   ,   12:50   ,2011-12   ,     Garden  ,         Hoses,                     DOTCOM POSTAGE
+541567,0.85,8.5,10,        France   ,  19/1/11   ,   11:51   ,2011-01   ,    Kitchen  ,      Coasters,                 WRAP ENGLISH ROSE 
+540365,0.85,20.4,24,        France   ,   6/1/11   ,   16:12   ,2011-01   ,    Clothes  ,         Shoes,           WOOD STAMP SET THANK YOU
+570724,1.25,15,12,        France   , 12/10/11   ,   11:22   ,2011-10   ,     Garden  ,         Hoses,                GREEN POLKADOT BOWL
+579345,4.95,14.85,3,        France   , 29/11/11   ,   11:46   ,2011-11   ,     Garden  ,         Seeds,                TOY TIDY SPACEBOY  
+565854,4.15,33.2,8,        France   ,   7/9/11   ,   13:22   ,2011-09   ,    Kitchen  ,         Bowls,   RED RETROSPOT CHILDRENS UMBRELLA
+574093,2.1,12.6,6,        France   ,  3/11/11   ,   09:43   ,2011-11   ,     Garden  ,         Hoses,     PACK OF 60 SPACEBOY CAKE CASES
+544069,2.95,17.7,6,        France   ,  15/2/11   ,   14:17   ,2011-02   ,    Clothes  ,         Shoes,ROUND SNACK BOXES SET OF4 WOODLAND 
+564897,1.79,515.52,288,        France   ,  31/8/11   ,   11:22   ,2011-08   ,     Garden  ,          Turf,        12 PENCILS TALL TUBE SKULLS
+565930,1.25,20,16,        France   ,   8/9/11   ,   10:32   ,2011-09   ,    Kitchen  ,       Cutlery,           RED RETROSPOT CAKE STAND
+542629,2.1,25.2,12,        France   ,  31/1/11   ,   09:57   ,2011-01   ,    Kitchen  ,      Coasters,         ICE CREAM SUNDAE LIP GLOSS
+551544,0.85,20.4,24,        France   ,   3/5/11   ,   09:33   ,2011-05   ,    Kitchen  ,Cooking Knives,                    PINK PARTY BAGS
+539727,18,18,1,        France   , 21/12/10   ,   14:26   ,2010-12   ,  Household  ,          Rugs,       LARGE HEART MEASURING SPOONS
+566115,0.42,5.04,12,        France   ,   9/9/11   ,   10:51   ,2011-09   ,    Clothes  ,          Hats,            MINI PAINT SET VINTAGE 
+547194,1.65,4.95,3,        France   ,  21/3/11   ,   12:42   ,2011-03   ,    Kitchen  ,      Coasters,          RED RETROSPOT OVEN GLOVE 
+559704,18,72,4,        France   ,  12/7/11   ,   09:54   ,2011-07   ,    Kitchen  ,         Bowls,        PACK OF 72 SKULL CAKE CASES
+568040,0.85,8.5,10,        France   ,  23/9/11   ,   12:09   ,2011-09   ,    Kitchen  ,       Cutlery,       SMALL HEART MEASURING SPOONS
+563926,0.29,13.92,48,        France   ,  21/8/11   ,   14:42   ,2011-08   ,     Garden  ,         Hoses,CLASSIC FRENCH STYLE BASKET NATURAL
+556526,4.15,33.2,8,        France   ,  13/6/11   ,   11:33   ,2011-06   ,    Kitchen  ,Cooking Knives,    CHILDRENS APRON SPACEBOY DESIGN
+573891,5.95,35.7,6,        France   ,  1/11/11   ,   13:56   ,2011-11   ,     Garden  ,         Hoses,        CHARLOTTE BAG PINK POLKADOT
+547492,1.25,30,24,        France   ,  23/3/11   ,   12:06   ,2011-03   ,     Garden  ,         Seeds,        RED RETROSPOT CHARLOTTE BAG
+547194,4.95,14.85,3,        France   ,  21/3/11   ,   12:42   ,2011-03   ,    Clothes  ,          Hats,        WATERING CAN GREEN DINOSAUR
+567552,0.82,8.2,10,        France   ,  21/9/11   ,   10:40   ,2011-09   ,     Garden  ,         Rakes,         LUNCH BAG SPACEBOY DESIGN 
+574501,0.12,0.36,3,        France   ,  4/11/11   ,   13:15   ,2011-11   ,     Garden  ,         Seeds,       MEASURING TAPE BABUSHKA BLUE
+547504,2.1,75.6,36,        France   ,  23/3/11   ,   13:33   ,2011-03   ,    Clothes  ,          Tops,                            POSTAGE
+574252,8.5,17,2,        France   ,  3/11/11   ,   13:24   ,2011-11   ,    Kitchen  ,        Scales,    SET/2 RED RETROSPOT TEA TOWELS 
+575629,0.83,9.96,12,        France   , 10/11/11   ,   13:34   ,2011-11   ,  Household  ,      Curtains,          MIRRORED WALL ART POPPIES
+547194,0.42,0.42,1,        France   ,  21/3/11   ,   12:42   ,2011-03   ,     Garden  ,          Turf,         LUNCH BAG SPACEBOY DESIGN 
+551539,0.85,40.8,48,        France   ,   3/5/11   ,   08:40   ,2011-05   ,    Kitchen  ,        Scales,  BLUE 3 PIECE POLKADOT CUTLERY SET
+547892,1.65,16.5,10,        France   ,  28/3/11   ,   10:15   ,2011-03   ,    Clothes  ,          Tops,"   SET 3 RETROSPOT TEA,COFFEE,SUGAR"
+542535,8.95,44.75,5,        France   ,  28/1/11   ,   13:37   ,2011-01   ,  Household  ,         Lamps,ROUND SNACK BOXES SET OF4 WOODLAND 
+548737,2.55,15.3,6,        France   ,   4/4/11   ,   11:18   ,2011-04   ,    Kitchen  ,         Bowls,        RECYCLED ACAPULCO MAT GREEN
+576672,1.65,49.5,30,        France   , 16/11/11   ,   11:59   ,2011-11   ,  Household  ,          Rugs,                  RED RETROSPOT CUP
+556463,0.19,68.4,360,        France   ,  12/6/11   ,   10:47   ,2011-06   ,     Garden  ,         Hoses,           36 PENCILS TUBE WOODLAND
+540178,0.42,5.04,12,        France   ,   5/1/11   ,   12:42   ,2011-01   ,  Household  ,          Rugs,     PACK OF 60 MUSHROOM CAKE CASES
+563926,1.25,12.5,10,        France   ,  21/8/11   ,   14:42   ,2011-08   ,    Clothes  ,          Hats,   RETROSPOT HEART HOT WATER BOTTLE
+577344,18,18,1,        France   , 18/11/11   ,   15:14   ,2011-11   ,    Kitchen  ,         Bowls,                  BLUE POLKADOT CUP
+562275,1.25,10,8,        France   ,   4/8/11   ,   10:04   ,2011-08   ,  Household  ,      Curtains,                 RED RETROSPOT BOWL
+566256,0.39,4.68,12,        France   ,  11/9/11   ,   12:27   ,2011-09   ,     Garden  ,         Rakes,                 JUMBO BAG ALPHABET
+541631,2.1,25.2,12,        France   ,  20/1/11   ,   10:47   ,2011-01   ,     Garden  ,         Seeds,       HOMEMADE JAM SCENTED CANDLES
+542629,2.55,30.6,12,        France   ,  31/1/11   ,   09:57   ,2011-01   ,    Clothes  ,          Tops,          BROWN CHECK CAT DOORSTOP 
+559704,1.25,10,8,        France   ,  12/7/11   ,   09:54   ,2011-07   ,    Kitchen  ,       Cutlery,       GLASS JAR DIGESTIVE BISCUITS
+548496,0.85,20.4,24,        France   ,  31/3/11   ,   13:40   ,2011-03   ,    Clothes  ,          Hats,          JUMBO BAG DOILEY PATTERNS
+553577,2.55,30.6,12,        France   ,  18/5/11   ,   10:34   ,2011-05   ,     Garden  ,         Rakes,   ROSES REGENCY TEACUP AND SAUCER 
+539050,1.25,1.25,1,        France   , 15/12/10   ,   16:21   ,2010-12   ,    Kitchen  ,       Cutlery,  ANTIQUE SILVER TEA GLASS ENGRAVED
+579708,1.65,16.5,10,        France   , 30/11/11   ,   14:16   ,2011-11   ,  Household  ,         Lamps,                     RETRO MOD TRAY
+552826,7.95,15.9,2,        France   ,  11/5/11   ,   13:20   ,2011-05   ,    Clothes  ,          Hats,        JUMBO BAG DOLLY GIRL DESIGN
+567618,2.08,20.8,10,        France   ,  21/9/11   ,   12:26   ,2011-09   ,  Household  ,      Curtains,         RED RETROSPOT PUDDING BOWL
+556816,0.85,17,20,        France   ,  15/6/11   ,   09:01   ,2011-06   ,    Kitchen  ,      Coasters,        PACK OF 20 SPACEBOY NAPKINS
+569699,1.25,2.5,2,        France   ,  5/10/11   ,   15:52   ,2011-10   ,    Kitchen  ,      Coasters,                     DOTCOM POSTAGE
+564670,1.65,19.8,12,        France   ,  26/8/11   ,   15:44   ,2011-08   ,  Household  ,        Chairs,                 WRAP ENGLISH ROSE 
+555096,2.08,20.8,10,        France   ,  31/5/11   ,   13:32   ,2011-05   ,    Kitchen  ,       Cutlery,           WOOD STAMP SET THANK YOU
+540239,1.25,15,12,        France   ,   5/1/11   ,   14:48   ,2011-01   ,    Kitchen  ,        Scales,                GREEN POLKADOT BOWL
+567910,18,18,1,        France   ,  22/9/11   ,   16:58   ,2011-09   ,     Garden  ,         Seeds,                TOY TIDY SPACEBOY  
+580986,0.21,5.04,24,        France   ,  6/12/11   ,   16:34   ,2011-12   ,     Garden  ,         Rakes,   RED RETROSPOT CHILDRENS UMBRELLA
+538093,1.65,19.8,12,        France   ,  9/12/10   ,   14:49   ,2010-12   ,    Clothes  ,          Tops,     PACK OF 60 SPACEBOY CAKE CASES
+538093,0.85,10.2,12,        France   ,  9/12/10   ,   14:49   ,2010-12   ,  Household  ,         Lamps,ROUND SNACK BOXES SET OF4 WOODLAND 
+578541,6.75,13.5,2,        France   , 24/11/11   ,   15:01   ,2011-11   ,     Garden  ,         Rakes,        12 PENCILS TALL TUBE SKULLS
+579792,1.25,10,8,        France   , 30/11/11   ,   15:43   ,2011-11   ,  Household  ,      Curtains,           RED RETROSPOT CAKE STAND
+576941,2.08,20.8,10,        France   , 17/11/11   ,   11:34   ,2011-11   ,     Garden  ,         Rakes,         ICE CREAM SUNDAE LIP GLOSS
+560398,6.75,67.5,10,        France   ,  18/7/11   ,   14:10   ,2011-07   ,  Household  ,          Rugs,                    PINK PARTY BAGS
+547892,3.75,15,4,        France   ,  28/3/11   ,   10:15   ,2011-03   ,    Clothes  ,          Hats,       LARGE HEART MEASURING SPOONS
+546373,0.65,15.6,24,        France   ,  11/3/11   ,   12:00   ,2011-03   ,    Kitchen  ,        Plates,            MINI PAINT SET VINTAGE 
+555531,1.95,163.8,84,        France   ,   5/6/11   ,   11:53   ,2011-06   ,     Garden  ,         Hoses,          RED RETROSPOT OVEN GLOVE 
+580705,4.15,16.6,4,        France   ,  5/12/11   ,   16:28   ,2011-12   ,  Household  ,        Chairs,         GYMKHANA TREASURE BOOK BOX
+568953,0.85,40.8,48,        France   ,  29/9/11   ,   15:31   ,2011-09   ,  Household  ,          Rugs,        SET OF 5 LUCKY CAT MAGNETS 
+573153,2.55,244.8,96,        France   , 28/10/11   ,   07:39   ,2011-10   ,    Clothes  ,          Tops,     6 GIFT TAGS VINTAGE CHRISTMAS 
+544355,0.65,7.8,12,        France   ,  18/2/11   ,   10:53   ,2011-02   ,     Garden  ,         Hoses,       RED HEART SHAPE LOVE BUCKET 
+553843,4.15,16.6,4,        France   ,  19/5/11   ,   12:29   ,2011-05   ,  Household  ,         Lamps,  JUNGLE POPSICLES ICE LOLLY MOULDS
+561795,3.25,19.5,6,        France   ,  29/7/11   ,   13:28   ,2011-07   ,    Clothes  ,          Tops,               BASKET OF TOADSTOOLS
+545051,18,18,1,        France   ,  27/2/11   ,   11:58   ,2011-02   ,  Household  ,         Lamps,               SMALL POPCORN HOLDER
+561795,0.42,10.5,25,        France   ,  29/7/11   ,   13:28   ,2011-07   ,    Clothes  ,          Hats,  CARDHOLDER GINGHAM CHRISTMAS TREE
+552851,0.42,5.04,12,        France   ,  11/5/11   ,   15:07   ,2011-05   ,  Household  ,        Chairs,             JUMBO STORAGE BAG SUKI
+579345,18,72,4,        France   , 29/11/11   ,   11:46   ,2011-11   ,  Household  ,         Lamps,  5 HOOK HANGER RED MAGIC TOADSTOOL
+580160,0.42,8.4,20,        France   ,  2/12/11   ,   10:47   ,2011-12   ,    Clothes  ,          Hats,     PINK REGENCY TEACUP AND SAUCER
+556924,1.95,46.8,24,        France   ,  15/6/11   ,   14:14   ,2011-06   ,  Household  ,         Lamps,       WHITE HEART CONFETTI IN TUBE
+543484,1.95,19.5,10,        France   ,   9/2/11   ,   10:11   ,2011-02   ,     Garden  ,         Hoses,          ALARM CLOCK BAKELIKE RED 
+566163,3.75,30,8,        France   ,   9/9/11   ,   11:48   ,2011-09   ,     Garden  ,         Seeds,            LUNCH BAG SUKI  DESIGN 
+547892,1.65,19.8,12,        France   ,  28/3/11   ,   10:15   ,2011-03   ,    Clothes  ,          Tops,   TRADITIONAL WOODEN SKIPPING ROPE
+555547,2.55,15.3,6,        France   ,   5/6/11   ,   13:13   ,2011-06   ,    Clothes  ,         Shoes,                 DOORMAT UNION FLAG
+564479,1.65,19.8,12,        France   ,  25/8/11   ,   13:12   ,2011-08   ,    Clothes  ,         Shoes,  UNION STRIPE WITH FRINGE  HAMMOCK
+551539,0.85,17,20,        France   ,   3/5/11   ,   08:40   ,2011-05   ,    Clothes  ,          Hats,                     SPOTTY BUNTING
+555569,2.95,17.7,6,        France   ,   5/6/11   ,   15:29   ,2011-06   ,    Kitchen  ,Cooking Knives,       MODERN FLORAL STATIONERY SET
+550661,3.75,15,4,        France   ,  20/4/11   ,   09:20   ,2011-04   ,    Clothes  ,          Tops,         ASSORTED COLOUR MINI CASES
+540976,2.95,17.7,6,        France   ,  12/1/11   ,   15:00   ,2011-01   ,    Kitchen  ,        Plates,             RED SPOTTY BISCUIT TIN
+564531,0.42,5.04,12,        France   ,  25/8/11   ,   15:04   ,2011-08   ,     Garden  ,         Rakes,     SET OF 6 TEA TIME BAKING CASES
+576672,0.85,51,60,        France   , 16/11/11   ,   11:59   ,2011-11   ,    Kitchen  ,       Cutlery,            DOLLY HONEYCOMB GARLAND
+580986,0.39,4.68,12,        France   ,  6/12/11   ,   16:34   ,2011-12   ,     Garden  ,          Turf,        VINTAGE CHRISTMAS STOCKING 
+570724,11.95,23.9,2,        France   , 12/10/11   ,   11:22   ,2011-10   ,    Clothes  ,         Shoes,SQUARECUSHION COVER PINK UNION FLAG
+561040,2.95,17.7,6,     Australia   ,  24/7/11   ,   12:05   ,2011-07   ,  Household  ,         Lamps,               WRAP ALPHABET DESIGN
+568695,1.65,39.6,24,     Australia   ,  28/9/11   ,   14:55   ,2011-09   ,     Garden  ,         Seeds,               BLUE POLKADOT PLATE 
+569650,3.39,169.5,50,     Australia   ,  5/10/11   ,   12:44   ,2011-10   ,  Household  ,      Curtains,BLUE CHARLIE+LOLA PERSONAL DOORSIGN
+540700,1.65,16.5,10,     Australia   ,  11/1/11   ,   09:47   ,2011-01   ,     Garden  ,         Rakes,     FAIRY TALE COTTAGE NIGHT LIGHT
+565146,1.45,208.8,144,     Australia   ,   1/9/11   ,   13:51   ,2011-09   ,    Kitchen  ,        Scales,            MINI PAINT SET VINTAGE 
+554126,6.75,67.5,10,     Australia   ,  23/5/11   ,   09:14   ,2011-05   ,    Kitchen  ,        Plates,         STORAGE TIN VINTAGE DOILY 
+567085,7.95,15.9,2,     Australia   ,  16/9/11   ,   12:38   ,2011-09   ,     Garden  ,         Rakes,"   SET 3 RETROSPOT TEA,COFFEE,SUGAR"
+567085,4.95,14.85,3,     Australia   ,  16/9/11   ,   12:38   ,2011-09   ,    Clothes  ,         Shoes,             REGENCY MILK JUG PINK 
+556917,1.25,90,72,     Australia   ,  15/6/11   ,   13:37   ,2011-06   ,  Household  ,      Curtains,                 CARD CIRCUS PARADE
+547659,7.95,15.9,2,     Australia   ,  24/3/11   ,   13:05   ,2011-03   ,  Household  ,         Lamps,           REGENCY SUGAR BOWL GREEN
+543989,3.25,312,96,     Australia   ,  15/2/11   ,   09:52   ,2011-02   ,  Household  ,          Rugs,       SMALL HEART MEASURING SPOONS
+559919,1.04,399.36,384,     Australia   ,  13/7/11   ,   15:30   ,2011-07   ,    Kitchen  ,       Cutlery,CLASSIC FRENCH STYLE BASKET NATURAL
+567085,1.65,19.8,12,     Australia   ,  16/9/11   ,   12:38   ,2011-09   ,    Kitchen  ,        Plates,    CHILDRENS APRON SPACEBOY DESIGN
+560033,2.55,30.6,12,     Australia   ,  14/7/11   ,   13:28   ,2011-07   ,    Clothes  ,          Tops,        CHARLOTTE BAG PINK POLKADOT
+545065,6.75,27,4,     Australia   ,  27/2/11   ,   14:43   ,2011-02   ,  Household  ,          Rugs,        RED RETROSPOT CHARLOTTE BAG
+543989,0.34,68,200,     Australia   ,  15/2/11   ,   09:52   ,2011-02   ,    Clothes  ,         Shoes,        WATERING CAN GREEN DINOSAUR
+545475,1.45,139.2,96,     Australia   ,   3/3/11   ,   10:59   ,2011-03   ,    Clothes  ,         Shoes,         LUNCH BAG SPACEBOY DESIGN 
+553546,0.38,36.48,96,     Australia   ,  17/5/11   ,   15:42   ,2011-05   ,  Household  ,      Curtains,       MEASURING TAPE BABUSHKA BLUE
+576394,1.65,158.4,96,     Australia   , 15/11/11   ,   10:32   ,2011-11   ,    Kitchen  ,        Scales,                            POSTAGE
+565145,0.55,633.6,1152,     Australia   ,   1/9/11   ,   13:50   ,2011-09   ,     Garden  ,         Seeds,    SET/2 RED RETROSPOT TEA TOWELS 
+568145,2.89,52.02,18,     Australia   ,  25/9/11   ,   11:30   ,2011-09   ,    Clothes  ,          Hats,          MIRRORED WALL ART POPPIES
+545475,4.25,510,120,     Australia   ,   3/3/11   ,   10:59   ,2011-03   ,    Kitchen  ,         Bowls,         LUNCH BAG SPACEBOY DESIGN 
+560473,3.25,13,4,     Australia   ,  19/7/11   ,   10:42   ,2011-07   ,    Kitchen  ,         Bowls,  BLUE 3 PIECE POLKADOT CUTLERY SET
+543989,0.36,51.84,144,     Australia   ,  15/2/11   ,   09:52   ,2011-02   ,    Kitchen  ,      Coasters,"   SET 3 RETROSPOT TEA,COFFEE,SUGAR"
+560473,4.15,16.6,4,     Australia   ,  19/7/11   ,   10:42   ,2011-07   ,  Household  ,        Chairs,ROUND SNACK BOXES SET OF4 WOODLAND 
+569722,2.08,41.6,20,     Australia   ,  6/10/11   ,   09:31   ,2011-10   ,  Household  ,          Rugs,                  APPLE BATH SPONGE
+563614,1.65,237.6,144,     Australia   ,  18/8/11   ,   08:51   ,2011-08   ,    Kitchen  ,        Scales,        RECYCLED ACAPULCO MAT GREEN
+553546,1.45,69.6,48,     Australia   ,  17/5/11   ,   15:42   ,2011-05   ,  Household  ,         Lamps,                  RED RETROSPOT CUP
+543376,2.95,53.1,18,     Australia   ,   7/2/11   ,   15:10   ,2011-02   ,     Garden  ,         Hoses,           36 PENCILS TUBE WOODLAND
+576394,0.72,69.12,96,     Australia   , 15/11/11   ,   10:32   ,2011-11   ,    Clothes  ,         Shoes,     PACK OF 60 MUSHROOM CAKE CASES
+556917,0.34,136,400,     Australia   ,  15/6/11   ,   13:37   ,2011-06   ,    Kitchen  ,         Bowls,   RETROSPOT HEART HOT WATER BOTTLE
+540267,3.39,271.2,80,     Australia   ,   6/1/11   ,   11:12   ,2011-01   ,  Household  ,         Lamps,                  BLUE POLKADOT CUP
+569723,2.08,20.8,10,     Australia   ,  6/10/11   ,   09:32   ,2011-10   ,     Garden  ,         Seeds,                 RED RETROSPOT BOWL
+578459,0.19,18.24,96,     Australia   , 24/11/11   ,   12:30   ,2011-11   ,     Garden  ,         Rakes,                 JUMBO BAG ALPHABET
+556917,1.25,120,96,     Australia   ,  15/6/11   ,   13:37   ,2011-06   ,    Kitchen  ,Cooking Knives,       HOMEMADE JAM SCENTED CANDLES
+539419,2.95,147.5,50,     Australia   , 17/12/10   ,   14:10   ,2010-12   ,    Kitchen  ,         Bowls,          BROWN CHECK CAT DOORSTOP 
+547659,5.95,47.6,8,     Australia   ,  24/3/11   ,   13:05   ,2011-03   ,    Kitchen  ,       Cutlery,       GLASS JAR DIGESTIVE BISCUITS
+563179,1.65,16.5,10,     Australia   ,  12/8/11   ,   14:19   ,2011-08   ,    Kitchen  ,       Cutlery,          JUMBO BAG DOILEY PATTERNS
+545475,0.36,51.84,144,     Australia   ,   3/3/11   ,   10:59   ,2011-03   ,     Garden  ,         Seeds,   ROSES REGENCY TEACUP AND SAUCER 
+553546,1.65,237.6,144,     Australia   ,  17/5/11   ,   15:42   ,2011-05   ,    Clothes  ,          Hats,  ANTIQUE SILVER TEA GLASS ENGRAVED
+563614,1.04,124.8,120,     Australia   ,  18/8/11   ,   08:51   ,2011-08   ,  Household  ,          Rugs,                     RETRO MOD TRAY
+545475,3.39,488.16,144,     Australia   ,   3/3/11   ,   10:59   ,2011-03   ,    Clothes  ,          Hats,        JUMBO BAG DOLLY GIRL DESIGN
+568708,1.95,23.4,12,     Australia   ,  28/9/11   ,   15:41   ,2011-09   ,    Clothes  ,          Tops,         RED RETROSPOT PUDDING BOWL
+556917,1.85,222,120,     Australia   ,  15/6/11   ,   13:37   ,2011-06   ,     Garden  ,         Hoses,        PACK OF 20 SPACEBOY NAPKINS
+556917,3.75,180,48,     Australia   ,  15/6/11   ,   13:37   ,2011-06   ,  Household  ,          Rugs,                     DOTCOM POSTAGE
+540267,0.37,44.4,120,     Australia   ,   6/1/11   ,   11:12   ,2011-01   ,  Household  ,      Curtains,                 WRAP ENGLISH ROSE 
+545475,0.25,108,432,     Australia   ,   3/3/11   ,   10:59   ,2011-03   ,    Clothes  ,          Tops,           WOOD STAMP SET THANK YOU
+553546,4.95,178.2,36,     Australia   ,  17/5/11   ,   15:42   ,2011-05   ,    Kitchen  ,        Plates,                GREEN POLKADOT BOWL
+540267,1.45,139.2,96,     Australia   ,   6/1/11   ,   11:12   ,2011-01   ,    Kitchen  ,        Plates,                TOY TIDY SPACEBOY  
+563614,2.49,179.28,72,     Australia   ,  18/8/11   ,   08:51   ,2011-08   ,    Kitchen  ,        Plates,   RED RETROSPOT CHILDRENS UMBRELLA
+553148,2.95,11.8,4,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,    Clothes  ,         Shoes,     PACK OF 60 SPACEBOY CAKE CASES
+553148,2.95,11.8,4,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,  Household  ,          Rugs,ROUND SNACK BOXES SET OF4 WOODLAND 
+553148,1.95,11.7,6,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,  Household  ,          Rugs,        12 PENCILS TALL TUBE SKULLS
+553148,5.95,17.85,3,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,     Garden  ,         Rakes,           RED RETROSPOT CAKE STAND
+571652,0.21,7.56,36,     Hong Kong   , 18/10/11   ,   12:17   ,2011-10   ,  Household  ,          Rugs,         ICE CREAM SUNDAE LIP GLOSS
+564087,4.15,99.6,24,     Hong Kong   ,  23/8/11   ,   09:38   ,2011-08   ,    Kitchen  ,Cooking Knives,                    PINK PARTY BAGS
+549738,3.75,45,12,     Hong Kong   ,  12/4/11   ,   09:28   ,2011-04   ,  Household  ,         Lamps,       LARGE HEART MEASURING SPOONS
+541975,1.65,59.4,36,     Hong Kong   ,  24/1/11   ,   14:24   ,2011-01   ,     Garden  ,         Rakes,            MINI PAINT SET VINTAGE 
+571652,3.75,15,4,     Hong Kong   , 18/10/11   ,   12:17   ,2011-10   ,  Household  ,      Curtains,          RED RETROSPOT OVEN GLOVE 
+571652,4.95,14.85,3,     Hong Kong   , 18/10/11   ,   12:17   ,2011-10   ,    Kitchen  ,         Bowls,        PACK OF 72 SKULL CAKE CASES
+564087,8.25,66,8,     Hong Kong   ,  23/8/11   ,   09:38   ,2011-08   ,    Kitchen  ,Cooking Knives,       SMALL HEART MEASURING SPOONS
+571652,3.75,15,4,     Hong Kong   , 18/10/11   ,   12:17   ,2011-10   ,     Garden  ,         Hoses,CLASSIC FRENCH STYLE BASKET NATURAL
+571652,0.42,10.08,24,     Hong Kong   , 18/10/11   ,   12:17   ,2011-10   ,    Clothes  ,          Hats,    CHILDRENS APRON SPACEBOY DESIGN
+564087,4.95,39.6,8,     Hong Kong   ,  23/8/11   ,   09:38   ,2011-08   ,    Clothes  ,          Hats,        CHARLOTTE BAG PINK POLKADOT
+564087,1.25,20,16,     Hong Kong   ,  23/8/11   ,   09:38   ,2011-08   ,  Household  ,          Rugs,        RED RETROSPOT CHARLOTTE BAG
+541975,2.1,52.5,25,     Hong Kong   ,  24/1/11   ,   14:24   ,2011-01   ,    Clothes  ,          Tops,        WATERING CAN GREEN DINOSAUR
+541975,3.25,19.5,6,     Hong Kong   ,  24/1/11   ,   14:24   ,2011-01   ,     Garden  ,          Turf,         LUNCH BAG SPACEBOY DESIGN 
+553148,0.55,13.2,24,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,    Clothes  ,         Shoes,       MEASURING TAPE BABUSHKA BLUE
+541975,2.55,244.8,96,     Hong Kong   ,  24/1/11   ,   14:24   ,2011-01   ,    Clothes  ,          Tops,                            POSTAGE
+564087,0.85,10.2,12,     Hong Kong   ,  23/8/11   ,   09:38   ,2011-08   ,     Garden  ,          Turf,    SET/2 RED RETROSPOT TEA TOWELS 
+541975,10.95,43.8,4,     Hong Kong   ,  24/1/11   ,   14:24   ,2011-01   ,    Clothes  ,          Hats,          MIRRORED WALL ART POPPIES
+571652,1.25,30,24,     Hong Kong   , 18/10/11   ,   12:17   ,2011-10   ,  Household  ,         Lamps,         LUNCH BAG SPACEBOY DESIGN 
+553148,2.1,12.6,6,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,  Household  ,      Curtains,  BLUE 3 PIECE POLKADOT CUTLERY SET
+564087,1.65,19.8,12,     Hong Kong   ,  23/8/11   ,   09:38   ,2011-08   ,     Garden  ,         Hoses,"   SET 3 RETROSPOT TEA,COFFEE,SUGAR"
+573154,0.65,23.4,36,     Hong Kong   , 28/10/11   ,   08:20   ,2011-10   ,    Kitchen  ,       Cutlery,ROUND SNACK BOXES SET OF4 WOODLAND 
+564087,1.25,12.5,10,     Hong Kong   ,  23/8/11   ,   09:38   ,2011-08   ,  Household  ,      Curtains,        RECYCLED ACAPULCO MAT GREEN
+553148,0.55,13.2,24,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,     Garden  ,         Hoses,                  RED RETROSPOT CUP
+553148,0.85,10.2,12,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,    Kitchen  ,        Scales,           36 PENCILS TUBE WOODLAND
+553148,3.95,31.6,8,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,     Garden  ,         Rakes,     PACK OF 60 MUSHROOM CAKE CASES
+549738,1.95,15.6,8,     Hong Kong   ,  12/4/11   ,   09:28   ,2011-04   ,    Clothes  ,         Shoes,   RETROSPOT HEART HOT WATER BOTTLE
+553148,0.85,8.5,10,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,    Kitchen  ,      Coasters,                  BLUE POLKADOT CUP
+553148,0.85,8.5,10,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,    Clothes  ,          Hats,                 RED RETROSPOT BOWL
+571652,1.95,11.7,6,     Hong Kong   , 18/10/11   ,   12:17   ,2011-10   ,    Clothes  ,         Shoes,                 JUMBO BAG ALPHABET
+553148,1.65,16.5,10,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,    Kitchen  ,         Bowls,       HOMEMADE JAM SCENTED CANDLES
+564087,2.95,53.1,18,     Hong Kong   ,  23/8/11   ,   09:38   ,2011-08   ,  Household  ,         Lamps,          BROWN CHECK CAT DOORSTOP 
+557675,15,15,1,     Hong Kong   ,  22/6/11   ,   10:27   ,2011-06   ,     Garden  ,         Rakes,       GLASS JAR DIGESTIVE BISCUITS
+553148,3.25,19.5,6,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,  Household  ,          Rugs,          JUMBO BAG DOILEY PATTERNS
+553148,2.55,15.3,6,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,     Garden  ,         Seeds,   ROSES REGENCY TEACUP AND SAUCER 
+541975,1.65,66,40,     Hong Kong   ,  24/1/11   ,   14:24   ,2011-01   ,  Household  ,        Chairs,  ANTIQUE SILVER TEA GLASS ENGRAVED
+541975,3.75,90,24,     Hong Kong   ,  24/1/11   ,   14:24   ,2011-01   ,    Clothes  ,         Shoes,                     RETRO MOD TRAY
+541975,4.95,19.8,4,     Hong Kong   ,  24/1/11   ,   14:24   ,2011-01   ,    Clothes  ,          Tops,        JUMBO BAG DOLLY GIRL DESIGN
+564087,2.55,122.4,48,     Hong Kong   ,  23/8/11   ,   09:38   ,2011-08   ,     Garden  ,         Hoses,         RED RETROSPOT PUDDING BOWL
+549738,1.25,12.5,10,     Hong Kong   ,  12/4/11   ,   09:28   ,2011-04   ,     Garden  ,         Hoses,        PACK OF 20 SPACEBOY NAPKINS
+564087,8.25,66,8,     Hong Kong   ,  23/8/11   ,   09:38   ,2011-08   ,     Garden  ,         Hoses,                     DOTCOM POSTAGE
+553148,0.85,27.2,32,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,  Household  ,      Curtains,                 WRAP ENGLISH ROSE 
+564087,1.25,20,16,     Hong Kong   ,  23/8/11   ,   09:38   ,2011-08   ,    Clothes  ,          Tops,           WOOD STAMP SET THANK YOU
+553148,0.55,13.2,24,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,     Garden  ,         Hoses,                GREEN POLKADOT BOWL
+564087,4.95,29.7,6,     Hong Kong   ,  23/8/11   ,   09:38   ,2011-08   ,     Garden  ,         Rakes,                TOY TIDY SPACEBOY  
+553148,0.85,27.2,32,     Hong Kong   ,  13/5/11   ,   14:09   ,2011-05   ,    Kitchen  ,Cooking Knives,   RED RETROSPOT CHILDRENS UMBRELLA
+564087,1.25,20,16,     Hong Kong   ,  23/8/11   ,   09:38   ,2011-08   ,    Clothes  ,          Tops,     PACK OF 60 SPACEBOY CAK
