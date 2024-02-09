@@ -10,7 +10,7 @@ st.image('https://www.zuplic.com/wp-content/uploads/2018/07/eCommerce-Animated-G
 st.divider()
 
 # Load the dataset  
-df = pd.read_csv(r"E:\data science\note.books\Pandas\Omar Pandas\E-commerce\ecommerce.csv")
+df = pd.read_csv("ecommerce.csv")
 df.drop_duplicates(inplace=True)
 df.columns = df.columns.str.strip().str.lower()
 
