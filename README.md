@@ -1,4 +1,5 @@
 # Ecommerce
+![Walmart GIF](https://www.greenhost.eu/blog/wp-content/uploads/2019/08/fc71b96c5a6dfd750ce2f22a383ef3fa.gif)
 
 This project involves the development of an eCommerce platform featuring advanced data analysis and visualization tools. The application is built using Streamlit and aims to provide insights into sales, customer behavior, and product performance.
 
